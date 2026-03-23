@@ -1,0 +1,12 @@
+{
+  "id": "cmd-2007",
+  "created_at": "2026-03-21T21:32:06Z",
+  "action": "calendar.upsert_block",
+  "args": {
+    "title": "Tomorrow Planning",
+    "day": "2026-03-22",
+    "start_time": "18:30",
+    "duration": 30,
+    "description": "Review leverage, identify bottlenecks, plan next day."
+  }
+}

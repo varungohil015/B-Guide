@@ -1,0 +1,13 @@
+{
+  "id": "cmd-2009",
+  "completed_at": "2026-03-22T08:43:28Z",
+  "status": "ok",
+  "action": "calendar.today",
+  "result": {
+    "output": {
+      "raw": "- r41h2kl097if4gslkbu5k38tls :: 2026-03-22T03:30:00Z -> 2026-03-22T07:30:00Z :: Founder Flow\n- ofpj8a4l1b90j3719j711flkg0 :: 2026-03-22T07:30:00Z -> 2026-03-22T08:30:00Z :: Lunch / Reset\n- 62hqprj4h267e4kl3s3kgb66do :: 2026-03-22T08:30:00Z -> 2026-03-22T11:30:00Z :: Client Delivery / Cash Flow Block\n- m070o91ko4n6fa39iuhcdm9sbk :: 2026-03-22T11:30:00Z -> 2026-03-22T13:00:00Z :: Agency Execution / Follow-ups\n- tag0u9mmagb3vj6tjoic80pdhc :: 2026-03-22T13:00:00Z -> 2026-03-22T13:30:00Z :: Tomorrow Planning\n- na1v1jt7gbaahthv8mm8249o10 :: 2026-03-22T14:30:00Z -> 2026-03-22T15:30:00Z :: Optional Skill / Systems Block"
+    },
+    "stderr": "",
+    "returncode": 0
+  }
+}

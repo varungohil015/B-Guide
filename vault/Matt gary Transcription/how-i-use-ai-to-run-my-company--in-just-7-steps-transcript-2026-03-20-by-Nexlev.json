@@ -1,0 +1,4620 @@
+{
+  "metadata": {
+    "videoId": "IqSPqECzHCk",
+    "videoTitle": "how I use AI to run my company (in just 7 steps)",
+    "exportDate": "2026-03-20T13:01:54.334Z"
+  },
+  "summary": null,
+  "topics": null,
+  "beautifyScript": null,
+  "transcript": [
+    {
+      "time": "0:00",
+      "script": "You're using AI completely wrong. Most"
+    },
+    {
+      "time": "0:02",
+      "script": "founders treat it like some shiny"
+    },
+    {
+      "time": "0:03",
+      "script": "assistant. Type in an answer, prompt it,"
+    },
+    {
+      "time": "0:05",
+      "script": "and move on. But when you leverage AI as"
+    },
+    {
+      "time": "0:07",
+      "script": "the second brain of your company, every"
+    },
+    {
+      "time": "0:09",
+      "script": "person, every project, every process"
+    },
+    {
+      "time": "0:11",
+      "script": "gets smarter. In this video, I'll show"
+    },
+    {
+      "time": "0:13",
+      "script": "you the exact AI workflow that powers"
+    },
+    {
+      "time": "0:15",
+      "script": "the core departments of my company. And"
+    },
+    {
+      "time": "0:17",
+      "script": "the wild part is, if you unlock an extra"
+    },
+    {
+      "time": "0:18",
+      "script": "40% of productivity at each step, you"
+    },
+    {
+      "time": "0:21",
+      "script": "will mathematically 10x the productivity"
+    },
+    {
+      "time": "0:23",
+      "script": "of your team. Let's get into it. Step"
+    },
+    {
+      "time": "0:24",
+      "script": "one, the prompt stock. When you're"
+    },
+    {
+      "time": "0:26",
+      "script": "looking to go and build AI leverage"
+    },
+    {
+      "time": "0:28",
+      "script": "across your entire company, you need one"
+    },
+    {
+      "time": "0:30",
+      "script": "core document that hosts all of the core"
+    },
+    {
+      "time": "0:33",
+      "script": "prompts. So, it's easily sharable across"
+    },
+    {
+      "time": "0:35",
+      "script": "every team member. And so, inside of"
+    },
+    {
+      "time": "0:37",
+      "script": "this prompt stock, you can see I've got"
+    },
+    {
+      "time": "0:38",
+      "script": "prompts for things like Instagram reels,"
+    },
+    {
+      "time": "0:41",
+      "script": "YouTube scripts, Instagram carousels,"
+    },
+    {
+      "time": "0:44",
+      "script": "you name it, right? Basically, every"
+    },
+    {
+      "time": "0:46",
+      "script": "core content format across my entire"
+    },
+    {
+      "time": "0:49",
+      "script": "personal media company has a prompt"
+    },
+    {
+      "time": "0:51",
+      "script": "associated with it. We're not talking"
+    },
+    {
+      "time": "0:53",
+      "script": "basic ass prompts here. You need to take"
+    },
+    {
+      "time": "0:55",
+      "script": "pride in your prompts because the more"
+    },
+    {
+      "time": "0:57",
+      "script": "powerful your prompt, the more powerful"
+    },
+    {
+      "time": "0:59",
+      "script": "the output. Everyone gets obsessed with"
+    },
+    {
+      "time": "1:01",
+      "script": "prompts. They think it's like the end"
+    },
+    {
+      "time": "1:02",
+      "script": "product, but really it's the starting"
+    },
+    {
+      "time": "1:04",
+      "script": "point. It sets that initial amount of"
+    },
+    {
+      "time": "1:06",
+      "script": "context that you can really go and"
+    },
+    {
+      "time": "1:08",
+      "script": "transform the output of your team."
+    },
+    {
+      "time": "1:10",
+      "script": "Here's an example of an Instagram"
+    },
+    {
+      "time": "1:12",
+      "script": "carousels prompt. Okay. What I'm doing"
+    },
+    {
+      "time": "1:14",
+      "script": "is really establishing, you know, the"
+    },
+    {
+      "time": "1:16",
+      "script": "kind of tone as to what I'm looking for"
+    },
+    {
+      "time": "1:17",
+      "script": "here, right? I want it to be, you know,"
+    },
+    {
+      "time": "1:19",
+      "script": "the best copywriter and designer of"
+    },
+    {
+      "time": "1:20",
+      "script": "viral Instagram carousels. And I wanted"
+    },
+    {
+      "time": "1:23",
+      "script": "to make sure that you know it's creating"
+    },
+    {
+      "time": "1:24",
+      "script": "carousels at the level of like David"
+    },
+    {
+      "time": "1:26",
+      "script": "Oggovie, Claude Hopkins, Gary Halpert,"
+    },
+    {
+      "time": "1:28",
+      "script": "Eugene Schwarz, some of the best"
+    },
+    {
+      "time": "1:30",
+      "script": "copywriters to ever have existed. Then"
+    },
+    {
+      "time": "1:32",
+      "script": "I'm giving it the criteria by which, you"
+    },
+    {
+      "time": "1:34",
+      "script": "know, we're looking to attract this"
+    },
+    {
+      "time": "1:35",
+      "script": "level of founder to founder West. The"
+    },
+    {
+      "time": "1:37",
+      "script": "kind of founder that's doing over 100K"
+    },
+    {
+      "time": "1:39",
+      "script": "per month, that's looking to remove"
+    },
+    {
+      "time": "1:40",
+      "script": "themselves from operations, get more of"
+    },
+    {
+      "time": "1:42",
+      "script": "their time back, and scale their own"
+    },
+    {
+      "time": "1:44",
+      "script": "media company with organic content. From"
+    },
+    {
+      "time": "1:46",
+      "script": "there, I've gone and referenced the core"
+    },
+    {
+      "time": "1:49",
+      "script": "pieces that I'm going to go and show you"
+    },
+    {
+      "time": "1:50",
+      "script": "that are inserted into the project"
+    },
+    {
+      "time": "1:52",
+      "script": "knowledge of the given projects. Okay,"
+    },
+    {
+      "time": "1:54",
+      "script": "basically every core content format gets"
+    },
+    {
+      "time": "1:57",
+      "script": "its own unique project knowledge and its"
+    },
+    {
+      "time": "1:59",
+      "script": "own unique prompt as you're seeing here."
+    },
+    {
+      "time": "2:01",
+      "script": "You want to go and probably create"
+    },
+    {
+      "time": "2:02",
+      "script": "prompts for all the different content"
+    },
+    {
+      "time": "2:04",
+      "script": "formats. Well, definitely go to the link"
+    },
+    {
+      "time": "2:05",
+      "script": "in the description, go and download that"
+    },
+    {
+      "time": "2:07",
+      "script": "so you get a quick cheat sheet to get"
+    },
+    {
+      "time": "2:08",
+      "script": "started. Step two, organize your"
+    },
+    {
+      "time": "2:10",
+      "script": "systems. You know, you want to get the"
+    },
+    {
+      "time": "2:12",
+      "script": "maximum amount of power out of AI. Well,"
+    },
+    {
+      "time": "2:14",
+      "script": "AI eats systems. This is where I see so"
+    },
+    {
+      "time": "2:18",
+      "script": "many founders fall short. And so, what I"
+    },
+    {
+      "time": "2:19",
+      "script": "want to show you here is the elite level"
+    },
+    {
+      "time": "2:22",
+      "script": "of getting your systems organized"
+    },
+    {
+      "time": "2:23",
+      "script": "because after all, that's what we do"
+    },
+    {
+      "time": "2:25",
+      "script": "here, right? So, what I've got here is"
+    },
+    {
+      "time": "2:27",
+      "script": "the founder brand positioning. Inside of"
+    },
+    {
+      "time": "2:29",
+      "script": "this, I synthesize the core messaging"
+    },
+    {
+      "time": "2:31",
+      "script": "behind everything that we do at Founder"
+    },
+    {
+      "time": "2:33",
+      "script": "OS. So, you can see the best way to"
+    },
+    {
+      "time": "2:35",
+      "script": "build an online business is a personal"
+    },
+    {
+      "time": "2:36",
+      "script": "brand. If you want to build a personal"
+    },
+    {
+      "time": "2:38",
+      "script": "brand, you want it to be, you know,"
+    },
+    {
+      "time": "2:39",
+      "script": "beautiful, systemized, and hyper"
+    },
+    {
+      "time": "2:41",
+      "script": "profitable. And the best way to do that"
+    },
+    {
+      "time": "2:43",
+      "script": "is with a content GPS system. And so I"
+    },
+    {
+      "time": "2:45",
+      "script": "get into then all the details behind the"
+    },
+    {
+      "time": "2:47",
+      "script": "content GPS. And this is super useful"
+    },
+    {
+      "time": "2:49",
+      "script": "because in a lot of our content we talk"
+    },
+    {
+      "time": "2:52",
+      "script": "about obviously our brand and what we're"
+    },
+    {
+      "time": "2:54",
+      "script": "all about as well as our core mechanism"
+    },
+    {
+      "time": "2:56",
+      "script": "which is the content GPS which is the"
+    },
+    {
+      "time": "2:58",
+      "script": "most powerful system I've ever created"
+    },
+    {
+      "time": "3:00",
+      "script": "to go and drive conversions from"
+    },
+    {
+      "time": "3:02",
+      "script": "content. So then we have you know things"
+    },
+    {
+      "time": "3:04",
+      "script": "like our different offers. In this case,"
+    },
+    {
+      "time": "3:06",
+      "script": "our edge offer as an example, which is"
+    },
+    {
+      "time": "3:08",
+      "script": "this kind of private advisory that I"
+    },
+    {
+      "time": "3:10",
+      "script": "have for founders, helping them onetoone"
+    },
+    {
+      "time": "3:12",
+      "script": "on calls every other week, as well as"
+    },
+    {
+      "time": "3:13",
+      "script": "giving them the ability to text me"
+    },
+    {
+      "time": "3:15",
+      "script": "anytime they want and giving seven core"
+    },
+    {
+      "time": "3:17",
+      "script": "team members on their team access to all"
+    },
+    {
+      "time": "3:19",
+      "script": "of our systems and over 50 live sessions"
+    },
+    {
+      "time": "3:22",
+      "script": "a month where me as well as my entire"
+    },
+    {
+      "time": "3:24",
+      "script": "media company team are all able to go"
+    },
+    {
+      "time": "3:27",
+      "script": "and help them. Not only that, right, but"
+    },
+    {
+      "time": "3:28",
+      "script": "I go and have detailed marketing plans"
+    },
+    {
+      "time": "3:30",
+      "script": "that I feed as well as things like our"
+    },
+    {
+      "time": "3:33",
+      "script": "entire strategy for Founder OS Studios."
+    },
+    {
+      "time": "3:35",
+      "script": "I'm giving it the highle strategy, the"
+    },
+    {
+      "time": "3:37",
+      "script": "detailed branding, all the core"
+    },
+    {
+      "time": "3:39",
+      "script": "mechanisms and systems that we have as"
+    },
+    {
+      "time": "3:41",
+      "script": "well as who is responsible across my"
+    },
+    {
+      "time": "3:44",
+      "script": "entire team for the different aspects of"
+    },
+    {
+      "time": "3:46",
+      "script": "our content. Right? So here you can see"
+    },
+    {
+      "time": "3:48",
+      "script": "the different pieces of our systems,"
+    },
+    {
+      "time": "3:50",
+      "script": "right? All the way from awareness"
+    },
+    {
+      "time": "3:52",
+      "script": "through to renewal and giving it a sense"
+    },
+    {
+      "time": "3:54",
+      "script": "of okay, these are the different people"
+    },
+    {
+      "time": "3:55",
+      "script": "on my team in charge of this. If you"
+    },
+    {
+      "time": "3:57",
+      "script": "know, for whatever reason, not only do"
+    },
+    {
+      "time": "3:59",
+      "script": "we need to create content, but then I"
+    },
+    {
+      "time": "4:00",
+      "script": "need to delegate it to someone, it can"
+    },
+    {
+      "time": "4:02",
+      "script": "go and advise who I need to delegate it"
+    },
+    {
+      "time": "4:04",
+      "script": "to and it understands my overall content"
+    },
+    {
+      "time": "4:06",
+      "script": "strategy as well as company kind of"
+    },
+    {
+      "time": "4:08",
+      "script": "reporting structure. Lastly, what I see"
+    },
+    {
+      "time": "4:10",
+      "script": "a lot of founders needing to have is a"
+    },
+    {
+      "time": "4:12",
+      "script": "synthesized customer avatar because at"
+    },
+    {
+      "time": "4:15",
+      "script": "the end of the day, you're making"
+    },
+    {
+      "time": "4:16",
+      "script": "content for a specific kind of person."
+    },
+    {
+      "time": "4:19",
+      "script": "So, in here, you can see I've kind of"
+    },
+    {
+      "time": "4:21",
+      "script": "synthesized this core avatar. someone"
+    },
+    {
+      "time": "4:23",
+      "script": "named Jack who's making over 200k per"
+    },
+    {
+      "time": "4:25",
+      "script": "month, wants more of their time back,"
+    },
+    {
+      "time": "4:26",
+      "script": "wants to be successful and to design,"
+    },
+    {
+      "time": "4:28",
+      "script": "you know, the life of their dreams and"
+    },
+    {
+      "time": "4:30",
+      "script": "wants a company that really ultimately"
+    },
+    {
+      "time": "4:32",
+      "script": "grows when they're offline, right? And"
+    },
+    {
+      "time": "4:33",
+      "script": "so I've synthesized the core aspects of"
+    },
+    {
+      "time": "4:36",
+      "script": "this avatar and I feed this to Claude as"
+    },
+    {
+      "time": "4:39",
+      "script": "well. It's because I have all of these"
+    },
+    {
+      "time": "4:41",
+      "script": "systems organized that I'm able to go"
+    },
+    {
+      "time": "4:43",
+      "script": "and tool up, you know, the given project"
+    },
+    {
+      "time": "4:45",
+      "script": "at the maximum capacity possible. So it"
+    },
+    {
+      "time": "4:48",
+      "script": "has all the context it needs to then"
+    },
+    {
+      "time": "4:50",
+      "script": "work its magic. You don't just need AI."
+    },
+    {
+      "time": "4:52",
+      "script": "You need systems for AI to actually plug"
+    },
+    {
+      "time": "4:54",
+      "script": "into. Now, here's the real inflection"
+    },
+    {
+      "time": "4:56",
+      "script": "point, right? These systems aren't just"
+    },
+    {
+      "time": "4:58",
+      "script": "for the CEO. The goal here is that we"
+    },
+    {
+      "time": "5:00",
+      "script": "have these systems all documented and"
+    },
+    {
+      "time": "5:01",
+      "script": "we're able to level up the entire team."
+    },
+    {
+      "time": "5:03",
+      "script": "And this is exactly how we think about"
+    },
+    {
+      "time": "5:05",
+      "script": "things in Founder OS with the thousands"
+    },
+    {
+      "time": "5:06",
+      "script": "of founders that we're serving every"
+    },
+    {
+      "time": "5:08",
+      "script": "single week. We're not just going and"
+    },
+    {
+      "time": "5:10",
+      "script": "helping the core founder. Really, we're"
+    },
+    {
+      "time": "5:12",
+      "script": "trying to make the founder the most"
+    },
+    {
+      "time": "5:13",
+      "script": "useless person in the entire business by"
+    },
+    {
+      "time": "5:15",
+      "script": "leveraging and leveling up the seven"
+    },
+    {
+      "time": "5:17",
+      "script": "core team members on their team. And the"
+    },
+    {
+      "time": "5:19",
+      "script": "way to do that is by giving them the"
+    },
+    {
+      "time": "5:21",
+      "script": "systems, the prompts, the projects, and"
+    },
+    {
+      "time": "5:23",
+      "script": "the right AI tools so that they can go"
+    },
+    {
+      "time": "5:25",
+      "script": "and become leveraged and remove the"
+    },
+    {
+      "time": "5:27",
+      "script": "founder from most the operations. Step"
+    },
+    {
+      "time": "5:29",
+      "script": "three, building your project knowledge."
+    },
+    {
+      "time": "5:31",
+      "script": "This is one project we use all the time"
+    },
+    {
+      "time": "5:33",
+      "script": "across my team. It's called the voice of"
+    },
+    {
+      "time": "5:35",
+      "script": "customer. You can see in the project"
+    },
+    {
+      "time": "5:37",
+      "script": "knowledge here, we've put in our core"
+    },
+    {
+      "time": "5:39",
+      "script": "offers. And then I've also gone and put"
+    },
+    {
+      "time": "5:41",
+      "script": "in some core survey responses that we've"
+    },
+    {
+      "time": "5:44",
+      "script": "received across of the different surveys"
+    },
+    {
+      "time": "5:45",
+      "script": "we've done of our dream customers across"
+    },
+    {
+      "time": "5:48",
+      "script": "Found Velocity, Found Edge, which are"
+    },
+    {
+      "time": "5:50",
+      "script": "some of our highlevel offers or founders"
+    },
+    {
+      "time": "5:52",
+      "script": "doing over 30K per month looking to go"
+    },
+    {
+      "time": "5:54",
+      "script": "and remove themselves from operations"
+    },
+    {
+      "time": "5:56",
+      "script": "and set up their own founder brands."
+    },
+    {
+      "time": "5:58",
+      "script": "I've gone and surveyed hundreds of"
+    },
+    {
+      "time": "5:59",
+      "script": "founders and understand their goals,"
+    },
+    {
+      "time": "6:02",
+      "script": "their challenges, what they most want or"
+    },
+    {
+      "time": "6:04",
+      "script": "help with, and the parts that they found"
+    },
+    {
+      "time": "6:05",
+      "script": "most valuable from working with us. What"
+    },
+    {
+      "time": "6:07",
+      "script": "I'm able to then do is take the real"
+    },
+    {
+      "time": "6:09",
+      "script": "words that they've given us and then use"
+    },
+    {
+      "time": "6:11",
+      "script": "this project now to go and give me"
+    },
+    {
+      "time": "6:14",
+      "script": "different ideas for how we can evolve"
+    },
+    {
+      "time": "6:16",
+      "script": "founder OS and the kind of content we"
+    },
+    {
+      "time": "6:18",
+      "script": "can put out even on this YouTube channel"
+    },
+    {
+      "time": "6:20",
+      "script": "that's going to go and attract more"
+    },
+    {
+      "time": "6:21",
+      "script": "founders just like this. And so going"
+    },
+    {
+      "time": "6:24",
+      "script": "and onboarding AI is very similar to"
+    },
+    {
+      "time": "6:25",
+      "script": "going onboarding a new employee, right?"
+    },
+    {
+      "time": "6:27",
+      "script": "You don't just onboard someone and give"
+    },
+    {
+      "time": "6:29",
+      "script": "them no information, right? You got to"
+    },
+    {
+      "time": "6:31",
+      "script": "show them the ropes. And the same thing"
+    },
+    {
+      "time": "6:33",
+      "script": "goes when you're tooling up a claude"
+    },
+    {
+      "time": "6:34",
+      "script": "project. your project knowledge, just"
+    },
+    {
+      "time": "6:36",
+      "script": "like the prompt, is something that you"
+    },
+    {
+      "time": "6:37",
+      "script": "got to take your time with. You know,"
+    },
+    {
+      "time": "6:39",
+      "script": "I've got a ton of different projects set"
+    },
+    {
+      "time": "6:41",
+      "script": "up for different needs. I have my market"
+    },
+    {
+      "time": "6:43",
+      "script": "researcher project here, different"
+    },
+    {
+      "time": "6:45",
+      "script": "projects for ads, for lead magnets, for"
+    },
+    {
+      "time": "6:48",
+      "script": "Instagram reels, for workshops, for the"
+    },
+    {
+      "time": "6:51",
+      "script": "culture at Found for email courses,"
+    },
+    {
+      "time": "6:53",
+      "script": "YouTube scripts, a CRO, and Instagram"
+    },
+    {
+      "time": "6:56",
+      "script": "carousels. Right? So, I'd like to set up"
+    },
+    {
+      "time": "6:58",
+      "script": "projects for individual use cases"
+    },
+    {
+      "time": "7:01",
+      "script": "because the prompts are going to be"
+    },
+    {
+      "time": "7:02",
+      "script": "different depending on the use case and"
+    },
+    {
+      "time": "7:04",
+      "script": "so will the project knowledges. To give"
+    },
+    {
+      "time": "7:06",
+      "script": "you a quick example here, let's get into"
+    },
+    {
+      "time": "7:07",
+      "script": "the Instagram carousels prompt here."
+    },
+    {
+      "time": "7:09",
+      "script": "Okay, so inside this project, you can"
+    },
+    {
+      "time": "7:11",
+      "script": "see I've loaded up the prompt inside of"
+    },
+    {
+      "time": "7:13",
+      "script": "the instructions here. It's all"
+    },
+    {
+      "time": "7:15",
+      "script": "detailed, ready to go. I like to load it"
+    },
+    {
+      "time": "7:17",
+      "script": "up in the instructions so that you don't"
+    },
+    {
+      "time": "7:18",
+      "script": "need to put the prompt in ever again."
+    },
+    {
+      "time": "7:19",
+      "script": "It's just there. It's locked. It's"
+    },
+    {
+      "time": "7:21",
+      "script": "loaded. And my team can go and use this"
+    },
+    {
+      "time": "7:23",
+      "script": "and rip it. And keep in mind, this kind"
+    },
+    {
+      "time": "7:25",
+      "script": "of copy that we generated from this has"
+    },
+    {
+      "time": "7:26",
+      "script": "probably generated over 180 million"
+    },
+    {
+      "time": "7:29",
+      "script": "organic views over the last year. Now,"
+    },
+    {
+      "time": "7:31",
+      "script": "inside of the project here, you can see"
+    },
+    {
+      "time": "7:32",
+      "script": "I've got the dream client avatar, our"
+    },
+    {
+      "time": "7:34",
+      "script": "different offers. I've got a bunch of"
+    },
+    {
+      "time": "7:36",
+      "script": "examples of my best content ever. I've"
+    },
+    {
+      "time": "7:38",
+      "script": "got a bunch of transcripts of me doing"
+    },
+    {
+      "time": "7:39",
+      "script": "coaching calls, a million words for my"
+    },
+    {
+      "time": "7:41",
+      "script": "upcoming book, our brand positioning,"
+    },
+    {
+      "time": "7:43",
+      "script": "our manifesto, you know. So, the key"
+    },
+    {
+      "time": "7:44",
+      "script": "thing here too is again that product"
+    },
+    {
+      "time": "7:46",
+      "script": "knowledge alone probably has about 2"
+    },
+    {
+      "time": "7:48",
+      "script": "million words in it, right? So, you"
+    },
+    {
+      "time": "7:50",
+      "script": "don't need to have this at the gate, but"
+    },
+    {
+      "time": "7:52",
+      "script": "you know, from gradually systemizing"
+    },
+    {
+      "time": "7:53",
+      "script": "more of your business and ideally you"
+    },
+    {
+      "time": "7:55",
+      "script": "steal a bunch of the systems that we"
+    },
+    {
+      "time": "7:56",
+      "script": "give you inside of Founder OS, you're"
+    },
+    {
+      "time": "7:58",
+      "script": "able to leverage this to go and move up"
+    },
+    {
+      "time": "8:00",
+      "script": "the learning curve super fast. So, let"
+    },
+    {
+      "time": "8:02",
+      "script": "me show you how I use this. I typically"
+    },
+    {
+      "time": "8:04",
+      "script": "go and insert my kind of instructions"
+    },
+    {
+      "time": "8:07",
+      "script": "inside of Claude using Whisper Flow. So,"
+    },
+    {
+      "time": "8:09",
+      "script": "here we go. I need you to go and create"
+    },
+    {
+      "time": "8:11",
+      "script": "a Instagram carousel around strategic"
+    },
+    {
+      "time": "8:14",
+      "script": "laziness that shows people that when"
+    },
+    {
+      "time": "8:16",
+      "script": "they have the right systems in place"
+    },
+    {
+      "time": "8:17",
+      "script": "across content, operations, finance, and"
+    },
+    {
+      "time": "8:20",
+      "script": "audience growth that they're able to be"
+    },
+    {
+      "time": "8:22",
+      "script": "more strategically lazy as a founder and"
+    },
+    {
+      "time": "8:24",
+      "script": "let their team do the rest. We'll just"
+    },
+    {
+      "time": "8:26",
+      "script": "let it go and work its magic here. Here"
+    },
+    {
+      "time": "8:27",
+      "script": "you can see we've got our strategic"
+    },
+    {
+      "time": "8:29",
+      "script": "laziness carousel here. So slide one,"
+    },
+    {
+      "time": "8:32",
+      "script": "the art of strategic laziness. Why the"
+    },
+    {
+      "time": "8:34",
+      "script": "best founders work less and earn more."
+    },
+    {
+      "time": "8:36",
+      "script": "Even that title, it's taking that from"
+    },
+    {
+      "time": "8:38",
+      "script": "one of my best YouTube videos ever. As"
+    },
+    {
+      "time": "8:40",
+      "script": "you can see here, then it's indicating"
+    },
+    {
+      "time": "8:42",
+      "script": "every single slide and the copy that"
+    },
+    {
+      "time": "8:44",
+      "script": "needs to go on it. I'm not necessarily"
+    },
+    {
+      "time": "8:45",
+      "script": "taking this one to one and just using"
+    },
+    {
+      "time": "8:47",
+      "script": "this for the carousel, but it certainly"
+    },
+    {
+      "time": "8:49",
+      "script": "serves as a lot of inspiration that"
+    },
+    {
+      "time": "8:51",
+      "script": "we'll use. And the cool thing that I've"
+    },
+    {
+      "time": "8:52",
+      "script": "noticed with this as well is that in the"
+    },
+    {
+      "time": "8:54",
+      "script": "case of carousels, it's actually allowed"
+    },
+    {
+      "time": "8:56",
+      "script": "my designer on my team, Yan, to become"
+    },
+    {
+      "time": "8:58",
+      "script": "one hell of a copywriter as well. So"
+    },
+    {
+      "time": "9:01",
+      "script": "that I'm no longer the bottleneck having"
+    },
+    {
+      "time": "9:03",
+      "script": "to make all this stuff. He's able to be"
+    },
+    {
+      "time": "9:05",
+      "script": "empowered with my copy, with my projects"
+    },
+    {
+      "time": "9:08",
+      "script": "and prompts to go and create legendary"
+    },
+    {
+      "time": "9:11",
+      "script": "carousels that founders love. All right,"
+    },
+    {
+      "time": "9:13",
+      "script": "so I know that sounds like a lot of"
+    },
+    {
+      "time": "9:15",
+      "script": "stuff, but the cool thing is I went and"
+    },
+    {
+      "time": "9:16",
+      "script": "synthesized all of the stuff I just"
+    },
+    {
+      "time": "9:18",
+      "script": "showed you into my project knowledge"
+    },
+    {
+      "time": "9:20",
+      "script": "template that you can go and find via"
+    },
+    {
+      "time": "9:21",
+      "script": "the link in the description. So go and"
+    },
+    {
+      "time": "9:23",
+      "script": "download that so this doesn't look"
+    },
+    {
+      "time": "9:24",
+      "script": "nearly as intimidating as it maybe is"
+    },
+    {
+      "time": "9:26",
+      "script": "coming across right now and can allow"
+    },
+    {
+      "time": "9:27",
+      "script": "you to get up the learning curve at"
+    },
+    {
+      "time": "9:28",
+      "script": "record speed. So, now that we've gone"
+    },
+    {
+      "time": "9:30",
+      "script": "and turned this generic AI into an AI"
+    },
+    {
+      "time": "9:32",
+      "script": "that actually understands me, let's move"
+    },
+    {
+      "time": "9:34",
+      "script": "on to the next part here. Step four,"
+    },
+    {
+      "time": "9:36",
+      "script": "project instructions and memory. I don't"
+    },
+    {
+      "time": "9:38",
+      "script": "want my team to have to constantly go"
+    },
+    {
+      "time": "9:39",
+      "script": "back to that prompt stock and update it"
+    },
+    {
+      "time": "9:41",
+      "script": "every time. Ideally, I just lock and"
+    },
+    {
+      "time": "9:43",
+      "script": "load the instructions of a given project"
+    },
+    {
+      "time": "9:45",
+      "script": "with a prompt and it's good to go. So,"
+    },
+    {
+      "time": "9:47",
+      "script": "here you can see as an example in the"
+    },
+    {
+      "time": "9:49",
+      "script": "Instagram carousels project, I've got an"
+    },
+    {
+      "time": "9:51",
+      "script": "entire detailed prompt all set up here."
+    },
+    {
+      "time": "9:54",
+      "script": "Okay? And so, you know, I've noticed"
+    },
+    {
+      "time": "9:55",
+      "script": "already, you know, my social media"
+    },
+    {
+      "time": "9:56",
+      "script": "manager, my designer, they're like 80%"
+    },
+    {
+      "time": "9:59",
+      "script": "more productive because of projects like"
+    },
+    {
+      "time": "10:01",
+      "script": "this. Now, the memory, I think, is"
+    },
+    {
+      "time": "10:02",
+      "script": "something that doesn't get talked enough"
+    },
+    {
+      "time": "10:04",
+      "script": "about inside of Claude. Okay,"
+    },
+    {
+      "time": "10:05",
+      "script": "essentially Claude regenerates memory"
+    },
+    {
+      "time": "10:07",
+      "script": "every evening from your past chats in"
+    },
+    {
+      "time": "10:10",
+      "script": "this project. And the cool thing, too,"
+    },
+    {
+      "time": "10:12",
+      "script": "is that I can go and tool up the memory"
+    },
+    {
+      "time": "10:14",
+      "script": "to actually be able to go and see what's"
+    },
+    {
+      "time": "10:16",
+      "script": "going on in other projects. So, as an"
+    },
+    {
+      "time": "10:18",
+      "script": "example, if I have amazing copy being"
+    },
+    {
+      "time": "10:20",
+      "script": "written for X and an awesome email"
+    },
+    {
+      "time": "10:22",
+      "script": "course project, I can go and tool up the"
+    },
+    {
+      "time": "10:24",
+      "script": "memory to actually be going and taking a"
+    },
+    {
+      "time": "10:26",
+      "script": "lot of the good sauce I'm building in"
+    },
+    {
+      "time": "10:28",
+      "script": "those projects and feeding that memory"
+    },
+    {
+      "time": "10:30",
+      "script": "into this project as well. Project"
+    },
+    {
+      "time": "10:32",
+      "script": "instructions ensure that you're giving"
+    },
+    {
+      "time": "10:33",
+      "script": "AI your standards, not just generic"
+    },
+    {
+      "time": "10:36",
+      "script": "instructions. When we go and dive into"
+    },
+    {
+      "time": "10:37",
+      "script": "this, right, you can see as an example"
+    },
+    {
+      "time": "10:39",
+      "script": "inside of the Instagram carousels"
+    },
+    {
+      "time": "10:41",
+      "script": "instructions, I'm setting this standard,"
+    },
+    {
+      "time": "10:43",
+      "script": "right, that I want the outputs to be"
+    },
+    {
+      "time": "10:44",
+      "script": "like the best copywriters that have ever"
+    },
+    {
+      "time": "10:47",
+      "script": "existed. I'm also establishing a"
+    },
+    {
+      "time": "10:49",
+      "script": "standard by which I want it to go and"
+    },
+    {
+      "time": "10:50",
+      "script": "attract the kind of founders that would"
+    },
+    {
+      "time": "10:52",
+      "script": "even join Founder OS in the first place,"
+    },
+    {
+      "time": "10:54",
+      "script": "right? So, targeting founders that are"
+    },
+    {
+      "time": "10:55",
+      "script": "ideally doing over 30K and beyond per"
+    },
+    {
+      "time": "10:58",
+      "script": "month. Now, when it comes then to the"
+    },
+    {
+      "time": "11:00",
+      "script": "kind of carousels I wanted to create,"
+    },
+    {
+      "time": "11:02",
+      "script": "the big thing that I do with each format"
+    },
+    {
+      "time": "11:04",
+      "script": "is I've learned these different hacks"
+    },
+    {
+      "time": "11:06",
+      "script": "that I often share with founders inside"
+    },
+    {
+      "time": "11:08",
+      "script": "of Founder OS. Part of the inside sauce"
+    },
+    {
+      "time": "11:10",
+      "script": "as an example with carousels is that you"
+    },
+    {
+      "time": "11:12",
+      "script": "want every single slide of a carousel to"
+    },
+    {
+      "time": "11:14",
+      "script": "be able to be shared on stories unto"
+    },
+    {
+      "time": "11:16",
+      "script": "itself. And so, I go and feed that into"
+    },
+    {
+      "time": "11:18",
+      "script": "the instructions so that I'm setting"
+    },
+    {
+      "time": "11:20",
+      "script": "that standard for everything that it"
+    },
+    {
+      "time": "11:22",
+      "script": "creates. From there also I'll get into"
+    },
+    {
+      "time": "11:24",
+      "script": "the kind of pain points I want it to hit"
+    },
+    {
+      "time": "11:26",
+      "script": "and the dreams I want to encapsulate as"
+    },
+    {
+      "time": "11:28",
+      "script": "well as the emotional resonance I want"
+    },
+    {
+      "time": "11:30",
+      "script": "to have because my goal with things like"
+    },
+    {
+      "time": "11:32",
+      "script": "content right is that I basically want"
+    },
+    {
+      "time": "11:34",
+      "script": "to read the minds and the subconscious"
+    },
+    {
+      "time": "11:36",
+      "script": "of the kind of customer that I'm looking"
+    },
+    {
+      "time": "11:37",
+      "script": "to attract. So, let's go and look at the"
+    },
+    {
+      "time": "11:40",
+      "script": "strategic laziness carousel that we"
+    },
+    {
+      "time": "11:41",
+      "script": "outputed, right? And I'll show you the"
+    },
+    {
+      "time": "11:43",
+      "script": "ways that it's going and pulling some of"
+    },
+    {
+      "time": "11:45",
+      "script": "the instructions that I've given it. As"
+    },
+    {
+      "time": "11:47",
+      "script": "we go and look at this, right, it's"
+    },
+    {
+      "time": "11:49",
+      "script": "pulling unique stories and backgrounds."
+    },
+    {
+      "time": "11:51",
+      "script": "You know, it knows that, you know, I"
+    },
+    {
+      "time": "11:52",
+      "script": "wanted to use my own unique experience."
+    },
+    {
+      "time": "11:55",
+      "script": "This doesn't just sound like some AI"
+    },
+    {
+      "time": "11:56",
+      "script": "goblygook. I have a lot of different"
+    },
+    {
+      "time": "11:58",
+      "script": "documentation I've given it that's"
+    },
+    {
+      "time": "11:59",
+      "script": "around those 16-hour work days that I"
+    },
+    {
+      "time": "12:01",
+      "script": "used to have in my first business. And"
+    },
+    {
+      "time": "12:03",
+      "script": "so, it's pulling that knowledge into"
+    },
+    {
+      "time": "12:04",
+      "script": "this piece of copy. In addition to that,"
+    },
+    {
+      "time": "12:06",
+      "script": "right, you can see that a lot of what"
+    },
+    {
+      "time": "12:08",
+      "script": "it's trying to do is writing in the same"
+    },
+    {
+      "time": "12:10",
+      "script": "rhythm that I write in, right? Short"
+    },
+    {
+      "time": "12:12",
+      "script": "sentences, oftentimes having things"
+    },
+    {
+      "time": "12:14",
+      "script": "like, you know, it needs better system,"
+    },
+    {
+      "time": "12:15",
+      "script": "systems for content, system operations,"
+    },
+    {
+      "time": "12:17",
+      "script": "systems for hiring, systems for growth."
+    },
+    {
+      "time": "12:19",
+      "script": "This is the kind of words that I use on"
+    },
+    {
+      "time": "12:20",
+      "script": "a lot of my coaching calls and stuff"
+    },
+    {
+      "time": "12:22",
+      "script": "I've even said in a lot of my content."
+    },
+    {
+      "time": "12:24",
+      "script": "The other thing that it's doing based on"
+    },
+    {
+      "time": "12:25",
+      "script": "the instructions is it's actually"
+    },
+    {
+      "time": "12:27",
+      "script": "pulling a bunch of copy from my best"
+    },
+    {
+      "time": "12:29",
+      "script": "tweets ever. These are just a few"
+    },
+    {
+      "time": "12:31",
+      "script": "examples just showing you the power of"
+    },
+    {
+      "time": "12:33",
+      "script": "setting up the right instructions, the"
+    },
+    {
+      "time": "12:34",
+      "script": "right project knowledge to go and get"
+    },
+    {
+      "time": "12:36",
+      "script": "outputs that authentically have your"
+    },
+    {
+      "time": "12:38",
+      "script": "voice. Step five, create projects for"
+    },
+    {
+      "time": "12:40",
+      "script": "every format. So, let me give you a"
+    },
+    {
+      "time": "12:42",
+      "script": "sense of the different projects that"
+    },
+    {
+      "time": "12:43",
+      "script": "I've set up across my team to go and"
+    },
+    {
+      "time": "12:45",
+      "script": "level everyone up and make them at least"
+    },
+    {
+      "time": "12:47",
+      "script": "40% more productive. We have projects"
+    },
+    {
+      "time": "12:49",
+      "script": "for Instagram carousels, for viral X"
+    },
+    {
+      "time": "12:51",
+      "script": "tweets, for Instagram stories, YouTube"
+    },
+    {
+      "time": "12:53",
+      "script": "scripts, lead magnets, you know, we have"
+    },
+    {
+      "time": "12:54",
+      "script": "them for email courses, for my"
+    },
+    {
+      "time": "12:56",
+      "script": "operations, so it runs like clockwork."
+    },
+    {
+      "time": "12:58",
+      "script": "We have it for upsells and for you know"
+    },
+    {
+      "time": "13:00",
+      "script": "our customer success department. I have"
+    },
+    {
+      "time": "13:02",
+      "script": "it to help me go and create the"
+    },
+    {
+      "time": "13:03",
+      "script": "different run of shows for the different"
+    },
+    {
+      "time": "13:04",
+      "script": "experiences you run whether it's in"
+    },
+    {
+      "time": "13:06",
+      "script": "Austin, the Doommites, Sedona, Bali, you"
+    },
+    {
+      "time": "13:09",
+      "script": "name it. Every single format across all"
+    },
+    {
+      "time": "13:11",
+      "script": "the different departments has"
+    },
+    {
+      "time": "13:13",
+      "script": "essentially an AI project which is"
+    },
+    {
+      "time": "13:14",
+      "script": "almost like an AI strategist that can"
+    },
+    {
+      "time": "13:16",
+      "script": "help them go and move forward. So let me"
+    },
+    {
+      "time": "13:18",
+      "script": "peel behind the scenes here and show you"
+    },
+    {
+      "time": "13:20",
+      "script": "how this all works, right? So voice of"
+    },
+    {
+      "time": "13:22",
+      "script": "customer, right? I may go and use this"
+    },
+    {
+      "time": "13:24",
+      "script": "specific project and my team will use"
+    },
+    {
+      "time": "13:26",
+      "script": "this to help us go and come up with say"
+    },
+    {
+      "time": "13:28",
+      "script": "content ideas that are based on the"
+    },
+    {
+      "time": "13:30",
+      "script": "surveys that we've gotten from founders."
+    },
+    {
+      "time": "13:32",
+      "script": "And so give me the top 20 content ideas"
+    },
+    {
+      "time": "13:35",
+      "script": "ranked from best to worst that will"
+    },
+    {
+      "time": "13:37",
+      "script": "cause founders that are doing over"
+    },
+    {
+      "time": "13:38",
+      "script": "$100,000 per month wanting to come work"
+    },
+    {
+      "time": "13:40",
+      "script": "with me and the team to go and remove"
+    },
+    {
+      "time": "13:43",
+      "script": "themselves from operations and build"
+    },
+    {
+      "time": "13:44",
+      "script": "their founder brands. And so we'll give"
+    },
+    {
+      "time": "13:46",
+      "script": "that to the voice of customer project"
+    },
+    {
+      "time": "13:48",
+      "script": "and boom, right? This thing is going to"
+    },
+    {
+      "time": "13:50",
+      "script": "go and leverage the insane amount of"
+    },
+    {
+      "time": "13:52",
+      "script": "context as well as the project knowledge"
+    },
+    {
+      "time": "13:54",
+      "script": "there to go and come up with content"
+    },
+    {
+      "time": "13:55",
+      "script": "ideas that we can then leverage for"
+    },
+    {
+      "time": "13:57",
+      "script": "platforms like Instagram, YouTube, you"
+    },
+    {
+      "time": "13:59",
+      "script": "name it. Here you can see it, right?"
+    },
+    {
+      "time": "14:00",
+      "script": "It's coming up with a bunch of"
+    },
+    {
+      "time": "14:02",
+      "script": "highquality ranked ideas, right? Things"
+    },
+    {
+      "time": "14:04",
+      "script": "like you built a 300k per month business"
+    },
+    {
+      "time": "14:07",
+      "script": "with $0 systems or the content hamster"
+    },
+    {
+      "time": "14:09",
+      "script": "wheel is killing your business. You"
+    },
+    {
+      "time": "14:10",
+      "script": "check Slack before brushing your teeth."
+    },
+    {
+      "time": "14:12",
+      "script": "I can't take a vacation without the"
+    },
+    {
+      "time": "14:14",
+      "script": "business stopping, you know, and it's"
+    },
+    {
+      "time": "14:15",
+      "script": "coming up with a bunch of other"
+    },
+    {
+      "time": "14:16",
+      "script": "highlever content ideas. Now, I'm not"
+    },
+    {
+      "time": "14:18",
+      "script": "saying that AI handles everything, but"
+    },
+    {
+      "time": "14:20",
+      "script": "it handles the 80% that it can just do,"
+    },
+    {
+      "time": "14:23",
+      "script": "leaving your team to do the 20% that's"
+    },
+    {
+      "time": "14:25",
+      "script": "your team's competitive edge. Your team"
+    },
+    {
+      "time": "14:27",
+      "script": "stops being order takers and are able to"
+    },
+    {
+      "time": "14:29",
+      "script": "evolve into being strategic operators."
+    },
+    {
+      "time": "14:30",
+      "script": "One infrastructure for every format, all"
+    },
+    {
+      "time": "14:33",
+      "script": "in your voice. Imagine the power of"
+    },
+    {
+      "time": "14:35",
+      "script": "having this set up across your personal"
+    },
+    {
+      "time": "14:37",
+      "script": "media company. This is how you build"
+    },
+    {
+      "time": "14:39",
+      "script": "leverage. Step six, team integration. A"
+    },
+    {
+      "time": "14:42",
+      "script": "big piece of this now that you have this"
+    },
+    {
+      "time": "14:43",
+      "script": "all toolled up is to actually train your"
+    },
+    {
+      "time": "14:45",
+      "script": "team on this. It's not going to be"
+    },
+    {
+      "time": "14:47",
+      "script": "immediately obvious to each person how"
+    },
+    {
+      "time": "14:49",
+      "script": "they can go and use this. And so the"
+    },
+    {
+      "time": "14:50",
+      "script": "typical process here is that I've gone"
+    },
+    {
+      "time": "14:52",
+      "script": "and I've toled up a given project. I've"
+    },
+    {
+      "time": "14:54",
+      "script": "used it myself for at least a couple"
+    },
+    {
+      "time": "14:56",
+      "script": "weeks, right? And gone it to the stage"
+    },
+    {
+      "time": "14:58",
+      "script": "where I'm like, \"Okay, this is ready to"
+    },
+    {
+      "time": "14:59",
+      "script": "ship to the rest of my squad.\" And then"
+    },
+    {
+      "time": "15:01",
+      "script": "from there on a given meeting, I'm going"
+    },
+    {
+      "time": "15:03",
+      "script": "to go and show them some of the ways I'm"
+    },
+    {
+      "time": "15:04",
+      "script": "using them. Then from there, it's all"
+    },
+    {
+      "time": "15:06",
+      "script": "documented. There's the now the AI"
+    },
+    {
+      "time": "15:08",
+      "script": "project inside Claude that people"
+    },
+    {
+      "time": "15:10",
+      "script": "leverage. And then there's a Loom video"
+    },
+    {
+      "time": "15:12",
+      "script": "typically of me actually using the given"
+    },
+    {
+      "time": "15:14",
+      "script": "thing. And then from there, I'm"
+    },
+    {
+      "time": "15:15",
+      "script": "empowering my team to take it the"
+    },
+    {
+      "time": "15:17",
+      "script": "distance. Here's the reality. I think"
+    },
+    {
+      "time": "15:18",
+      "script": "while most people are focused on using"
+    },
+    {
+      "time": "15:20",
+      "script": "AI to replace their team, the real magic"
+    },
+    {
+      "time": "15:22",
+      "script": "is integrating your existing team into"
+    },
+    {
+      "time": "15:24",
+      "script": "AI. So, you're getting basically a 30"
+    },
+    {
+      "time": "15:26",
+      "script": "person team out of those five core team"
+    },
+    {
+      "time": "15:28",
+      "script": "members you have. When you start"
+    },
+    {
+      "time": "15:30",
+      "script": "injecting AI into your team like this,"
+    },
+    {
+      "time": "15:32",
+      "script": "your team stops feeling overwhelmed and"
+    },
+    {
+      "time": "15:34",
+      "script": "starts to feel empowered. When I'm"
+    },
+    {
+      "time": "15:35",
+      "script": "working directly with founders inside of"
+    },
+    {
+      "time": "15:37",
+      "script": "Founder OS, I'm not just trying to level"
+    },
+    {
+      "time": "15:38",
+      "script": "up the founder. It's much more important"
+    },
+    {
+      "time": "15:40",
+      "script": "to me that I'm leveling up at least"
+    },
+    {
+      "time": "15:42",
+      "script": "seven core team members so that ideally"
+    },
+    {
+      "time": "15:44",
+      "script": "I can just make the founder the least"
+    },
+    {
+      "time": "15:46",
+      "script": "important person in that business. If"
+    },
+    {
+      "time": "15:47",
+      "script": "you're watching this and you're"
+    },
+    {
+      "time": "15:48",
+      "script": "thinking, damn, you know, I'm ready for"
+    },
+    {
+      "time": "15:50",
+      "script": "my company to have this level of"
+    },
+    {
+      "time": "15:51",
+      "script": "infrastructure. Well, that's exactly"
+    },
+    {
+      "time": "15:53",
+      "script": "what we do in Founder OS. We're not just"
+    },
+    {
+      "time": "15:55",
+      "script": "going to level up you, but we'll level"
+    },
+    {
+      "time": "15:56",
+      "script": "up your entire team and give you the"
+    },
+    {
+      "time": "15:58",
+      "script": "leverage necessary to go and compete"
+    },
+    {
+      "time": "16:00",
+      "script": "over the next 3 years. It's the systems"
+    },
+    {
+      "time": "16:02",
+      "script": "plus AI plus the right team trained up"
+    },
+    {
+      "time": "16:05",
+      "script": "that allow you to go and take advantage"
+    },
+    {
+      "time": "16:07",
+      "script": "of this next wave. Step seven, weekly"
+    },
+    {
+      "time": "16:10",
+      "script": "improvement. AI is not just some set it"
+    },
+    {
+      "time": "16:12",
+      "script": "and forget it thing. Okay, I see AI"
+    },
+    {
+      "time": "16:14",
+      "script": "almost like its own software product."
+    },
+    {
+      "time": "16:16",
+      "script": "And inside of my portfolio of companies,"
+    },
+    {
+      "time": "16:18",
+      "script": "we're constantly going and iterating on"
+    },
+    {
+      "time": "16:19",
+      "script": "the prompts, the projects because the"
+    },
+    {
+      "time": "16:21",
+      "script": "truth is things like the content"
+    },
+    {
+      "time": "16:23",
+      "script": "platforms change, your team changes,"
+    },
+    {
+      "time": "16:25",
+      "script": "right? The best practices in your"
+    },
+    {
+      "time": "16:26",
+      "script": "company will change and your core"
+    },
+    {
+      "time": "16:28",
+      "script": "documentation will change. You know what"
+    },
+    {
+      "time": "16:29",
+      "script": "are the things that need to be updated?"
+    },
+    {
+      "time": "16:31",
+      "script": "The given prompts need to be updated as"
+    },
+    {
+      "time": "16:33",
+      "script": "you go and learn different insights and"
+    },
+    {
+      "time": "16:35",
+      "script": "your brand evolves. The project"
+    },
+    {
+      "time": "16:36",
+      "script": "knowledges need to evolve as you know"
+    },
+    {
+      "time": "16:38",
+      "script": "the different kind of documentation"
+    },
+    {
+      "time": "16:40",
+      "script": "across your company changes and you're"
+    },
+    {
+      "time": "16:42",
+      "script": "obviously going to want to make new and"
+    },
+    {
+      "time": "16:44",
+      "script": "different projects as you expand to new"
+    },
+    {
+      "time": "16:46",
+      "script": "and different projects as well as"
+    },
+    {
+      "time": "16:48",
+      "script": "different platforms. It's important to"
+    },
+    {
+      "time": "16:49",
+      "script": "see this as something that you want to"
+    },
+    {
+      "time": "16:51",
+      "script": "get to a certain level out the gate"
+    },
+    {
+      "time": "16:52",
+      "script": "which is exactly what we help install"
+    },
+    {
+      "time": "16:54",
+      "script": "with people inside of founder less so"
+    },
+    {
+      "time": "16:56",
+      "script": "that out the gate you're not trying to"
+    },
+    {
+      "time": "16:57",
+      "script": "get from 10% to 20% to 30%. We can get"
+    },
+    {
+      "time": "17:00",
+      "script": "you from like 0 to 80% in a matter of"
+    },
+    {
+      "time": "17:02",
+      "script": "weeks. But from there, it's this mindset"
+    },
+    {
+      "time": "17:05",
+      "script": "of continuous improvement, making each"
+    },
+    {
+      "time": "17:08",
+      "script": "project 10% better every week. You know,"
+    },
+    {
+      "time": "17:10",
+      "script": "in a year, your company's leveling up"
+    },
+    {
+      "time": "17:12",
+      "script": "like 400x. So, here's the question. Are"
+    },
+    {
+      "time": "17:14",
+      "script": "you ready to stop managing chaos and"
+    },
+    {
+      "time": "17:16",
+      "script": "start compounding clarity? If you're"
+    },
+    {
+      "time": "17:18",
+      "script": "doing 30K, 100K, or even 300K a month,"
+    },
+    {
+      "time": "17:21",
+      "script": "the magic is going to come from having"
+    },
+    {
+      "time": "17:23",
+      "script": "the right systems and AI set up across"
+    },
+    {
+      "time": "17:25",
+      "script": "your entire team. If you've been"
+    },
+    {
+      "time": "17:27",
+      "script": "watching this video, you've got a taste"
+    },
+    {
+      "time": "17:29",
+      "script": "of what's possible. But the next logical"
+    },
+    {
+      "time": "17:31",
+      "script": "step is to go and join founder us where"
+    },
+    {
+      "time": "17:33",
+      "script": "we go and give you all these systems and"
+    },
+    {
+      "time": "17:35",
+      "script": "not just you as the founder but give it"
+    },
+    {
+      "time": "17:36",
+      "script": "to your entire team and help level them"
+    },
+    {
+      "time": "17:38",
+      "script": "up. This isn't some course or any"
+    },
+    {
+      "time": "17:40",
+      "script": "like that, right? This is"
+    },
+    {
+      "time": "17:42",
+      "script": "actually going and installing this"
+    },
+    {
+      "time": "17:44",
+      "script": "entire AI first operating system in your"
+    },
+    {
+      "time": "17:46",
+      "script": "business. You know, not just me and my"
+    },
+    {
+      "time": "17:48",
+      "script": "team, right? But you'll have access to"
+    },
+    {
+      "time": "17:49",
+      "script": "text me anytime you need me as well as"
+    },
+    {
+      "time": "17:52",
+      "script": "scheduled one-on-one calls every other"
+    },
+    {
+      "time": "17:54",
+      "script": "week with me directly, right? So that I"
+    },
+    {
+      "time": "17:56",
+      "script": "can go and help you through all of this"
+    },
+    {
+      "time": "17:57",
+      "script": "wave, right? and get these systems,"
+    },
+    {
+      "time": "17:59",
+      "script": "these projects, these prompts installed"
+    },
+    {
+      "time": "18:01",
+      "script": "across your team and then help go and"
+    },
+    {
+      "time": "18:03",
+      "script": "make sure it's as efficiently scaling as"
+    },
+    {
+      "time": "18:05",
+      "script": "possible. The future belongs to founders"
+    },
+    {
+      "time": "18:06",
+      "script": "who understand leverage. It's AI plus"
+    },
+    {
+      "time": "18:09",
+      "script": "systems plus leveling up your entire"
+    },
+    {
+      "time": "18:11",
+      "script": "team. If you're interested in learning"
+    },
+    {
+      "time": "18:12",
+      "script": "more about how I actually use AI inside"
+    },
+    {
+      "time": "18:14",
+      "script": "of my companies, go and check out this"
+    },
+    {
+      "time": "18:16",
+      "script": "next video. I'll see you over there. Be"
+    },
+    {
+      "time": "18:18",
+      "script": "sure to like and subscribe and welcome"
+    },
+    {
+      "time": "18:20",
+      "script": "to the founder freedom movement."
+    },
+    {
+      "time": "0:00",
+      "script": "You're using AI completely wrong. Most"
+    },
+    {
+      "time": "0:02",
+      "script": "founders treat it like some shiny"
+    },
+    {
+      "time": "0:03",
+      "script": "assistant. Type in an answer, prompt it,"
+    },
+    {
+      "time": "0:05",
+      "script": "and move on. But when you leverage AI as"
+    },
+    {
+      "time": "0:07",
+      "script": "the second brain of your company, every"
+    },
+    {
+      "time": "0:09",
+      "script": "person, every project, every process"
+    },
+    {
+      "time": "0:11",
+      "script": "gets smarter. In this video, I'll show"
+    },
+    {
+      "time": "0:13",
+      "script": "you the exact AI workflow that powers"
+    },
+    {
+      "time": "0:15",
+      "script": "the core departments of my company. And"
+    },
+    {
+      "time": "0:17",
+      "script": "the wild part is, if you unlock an extra"
+    },
+    {
+      "time": "0:18",
+      "script": "40% of productivity at each step, you"
+    },
+    {
+      "time": "0:21",
+      "script": "will mathematically 10x the productivity"
+    },
+    {
+      "time": "0:23",
+      "script": "of your team. Let's get into it. Step"
+    },
+    {
+      "time": "0:24",
+      "script": "one, the prompt stock. When you're"
+    },
+    {
+      "time": "0:26",
+      "script": "looking to go and build AI leverage"
+    },
+    {
+      "time": "0:28",
+      "script": "across your entire company, you need one"
+    },
+    {
+      "time": "0:30",
+      "script": "core document that hosts all of the core"
+    },
+    {
+      "time": "0:33",
+      "script": "prompts. So, it's easily sharable across"
+    },
+    {
+      "time": "0:35",
+      "script": "every team member. And so, inside of"
+    },
+    {
+      "time": "0:37",
+      "script": "this prompt stock, you can see I've got"
+    },
+    {
+      "time": "0:38",
+      "script": "prompts for things like Instagram reels,"
+    },
+    {
+      "time": "0:41",
+      "script": "YouTube scripts, Instagram carousels,"
+    },
+    {
+      "time": "0:44",
+      "script": "you name it, right? Basically, every"
+    },
+    {
+      "time": "0:46",
+      "script": "core content format across my entire"
+    },
+    {
+      "time": "0:49",
+      "script": "personal media company has a prompt"
+    },
+    {
+      "time": "0:51",
+      "script": "associated with it. We're not talking"
+    },
+    {
+      "time": "0:53",
+      "script": "basic ass prompts here. You need to take"
+    },
+    {
+      "time": "0:55",
+      "script": "pride in your prompts because the more"
+    },
+    {
+      "time": "0:57",
+      "script": "powerful your prompt, the more powerful"
+    },
+    {
+      "time": "0:59",
+      "script": "the output. Everyone gets obsessed with"
+    },
+    {
+      "time": "1:01",
+      "script": "prompts. They think it's like the end"
+    },
+    {
+      "time": "1:02",
+      "script": "product, but really it's the starting"
+    },
+    {
+      "time": "1:04",
+      "script": "point. It sets that initial amount of"
+    },
+    {
+      "time": "1:06",
+      "script": "context that you can really go and"
+    },
+    {
+      "time": "1:08",
+      "script": "transform the output of your team."
+    },
+    {
+      "time": "1:10",
+      "script": "Here's an example of an Instagram"
+    },
+    {
+      "time": "1:12",
+      "script": "carousels prompt. Okay. What I'm doing"
+    },
+    {
+      "time": "1:14",
+      "script": "is really establishing, you know, the"
+    },
+    {
+      "time": "1:16",
+      "script": "kind of tone as to what I'm looking for"
+    },
+    {
+      "time": "1:17",
+      "script": "here, right? I want it to be, you know,"
+    },
+    {
+      "time": "1:19",
+      "script": "the best copywriter and designer of"
+    },
+    {
+      "time": "1:20",
+      "script": "viral Instagram carousels. And I wanted"
+    },
+    {
+      "time": "1:23",
+      "script": "to make sure that you know it's creating"
+    },
+    {
+      "time": "1:24",
+      "script": "carousels at the level of like David"
+    },
+    {
+      "time": "1:26",
+      "script": "Oggovie, Claude Hopkins, Gary Halpert,"
+    },
+    {
+      "time": "1:28",
+      "script": "Eugene Schwarz, some of the best"
+    },
+    {
+      "time": "1:30",
+      "script": "copywriters to ever have existed. Then"
+    },
+    {
+      "time": "1:32",
+      "script": "I'm giving it the criteria by which, you"
+    },
+    {
+      "time": "1:34",
+      "script": "know, we're looking to attract this"
+    },
+    {
+      "time": "1:35",
+      "script": "level of founder to founder West. The"
+    },
+    {
+      "time": "1:37",
+      "script": "kind of founder that's doing over 100K"
+    },
+    {
+      "time": "1:39",
+      "script": "per month, that's looking to remove"
+    },
+    {
+      "time": "1:40",
+      "script": "themselves from operations, get more of"
+    },
+    {
+      "time": "1:42",
+      "script": "their time back, and scale their own"
+    },
+    {
+      "time": "1:44",
+      "script": "media company with organic content. From"
+    },
+    {
+      "time": "1:46",
+      "script": "there, I've gone and referenced the core"
+    },
+    {
+      "time": "1:49",
+      "script": "pieces that I'm going to go and show you"
+    },
+    {
+      "time": "1:50",
+      "script": "that are inserted into the project"
+    },
+    {
+      "time": "1:52",
+      "script": "knowledge of the given projects. Okay,"
+    },
+    {
+      "time": "1:54",
+      "script": "basically every core content format gets"
+    },
+    {
+      "time": "1:57",
+      "script": "its own unique project knowledge and its"
+    },
+    {
+      "time": "1:59",
+      "script": "own unique prompt as you're seeing here."
+    },
+    {
+      "time": "2:01",
+      "script": "You want to go and probably create"
+    },
+    {
+      "time": "2:02",
+      "script": "prompts for all the different content"
+    },
+    {
+      "time": "2:04",
+      "script": "formats. Well, definitely go to the link"
+    },
+    {
+      "time": "2:05",
+      "script": "in the description, go and download that"
+    },
+    {
+      "time": "2:07",
+      "script": "so you get a quick cheat sheet to get"
+    },
+    {
+      "time": "2:08",
+      "script": "started. Step two, organize your"
+    },
+    {
+      "time": "2:10",
+      "script": "systems. You know, you want to get the"
+    },
+    {
+      "time": "2:12",
+      "script": "maximum amount of power out of AI. Well,"
+    },
+    {
+      "time": "2:14",
+      "script": "AI eats systems. This is where I see so"
+    },
+    {
+      "time": "2:18",
+      "script": "many founders fall short. And so, what I"
+    },
+    {
+      "time": "2:19",
+      "script": "want to show you here is the elite level"
+    },
+    {
+      "time": "2:22",
+      "script": "of getting your systems organized"
+    },
+    {
+      "time": "2:23",
+      "script": "because after all, that's what we do"
+    },
+    {
+      "time": "2:25",
+      "script": "here, right? So, what I've got here is"
+    },
+    {
+      "time": "2:27",
+      "script": "the founder brand positioning. Inside of"
+    },
+    {
+      "time": "2:29",
+      "script": "this, I synthesize the core messaging"
+    },
+    {
+      "time": "2:31",
+      "script": "behind everything that we do at Founder"
+    },
+    {
+      "time": "2:33",
+      "script": "OS. So, you can see the best way to"
+    },
+    {
+      "time": "2:35",
+      "script": "build an online business is a personal"
+    },
+    {
+      "time": "2:36",
+      "script": "brand. If you want to build a personal"
+    },
+    {
+      "time": "2:38",
+      "script": "brand, you want it to be, you know,"
+    },
+    {
+      "time": "2:39",
+      "script": "beautiful, systemized, and hyper"
+    },
+    {
+      "time": "2:41",
+      "script": "profitable. And the best way to do that"
+    },
+    {
+      "time": "2:43",
+      "script": "is with a content GPS system. And so I"
+    },
+    {
+      "time": "2:45",
+      "script": "get into then all the details behind the"
+    },
+    {
+      "time": "2:47",
+      "script": "content GPS. And this is super useful"
+    },
+    {
+      "time": "2:49",
+      "script": "because in a lot of our content we talk"
+    },
+    {
+      "time": "2:52",
+      "script": "about obviously our brand and what we're"
+    },
+    {
+      "time": "2:54",
+      "script": "all about as well as our core mechanism"
+    },
+    {
+      "time": "2:56",
+      "script": "which is the content GPS which is the"
+    },
+    {
+      "time": "2:58",
+      "script": "most powerful system I've ever created"
+    },
+    {
+      "time": "3:00",
+      "script": "to go and drive conversions from"
+    },
+    {
+      "time": "3:02",
+      "script": "content. So then we have you know things"
+    },
+    {
+      "time": "3:04",
+      "script": "like our different offers. In this case,"
+    },
+    {
+      "time": "3:06",
+      "script": "our edge offer as an example, which is"
+    },
+    {
+      "time": "3:08",
+      "script": "this kind of private advisory that I"
+    },
+    {
+      "time": "3:10",
+      "script": "have for founders, helping them onetoone"
+    },
+    {
+      "time": "3:12",
+      "script": "on calls every other week, as well as"
+    },
+    {
+      "time": "3:13",
+      "script": "giving them the ability to text me"
+    },
+    {
+      "time": "3:15",
+      "script": "anytime they want and giving seven core"
+    },
+    {
+      "time": "3:17",
+      "script": "team members on their team access to all"
+    },
+    {
+      "time": "3:19",
+      "script": "of our systems and over 50 live sessions"
+    },
+    {
+      "time": "3:22",
+      "script": "a month where me as well as my entire"
+    },
+    {
+      "time": "3:24",
+      "script": "media company team are all able to go"
+    },
+    {
+      "time": "3:27",
+      "script": "and help them. Not only that, right, but"
+    },
+    {
+      "time": "3:28",
+      "script": "I go and have detailed marketing plans"
+    },
+    {
+      "time": "3:30",
+      "script": "that I feed as well as things like our"
+    },
+    {
+      "time": "3:33",
+      "script": "entire strategy for Founder OS Studios."
+    },
+    {
+      "time": "3:35",
+      "script": "I'm giving it the highle strategy, the"
+    },
+    {
+      "time": "3:37",
+      "script": "detailed branding, all the core"
+    },
+    {
+      "time": "3:39",
+      "script": "mechanisms and systems that we have as"
+    },
+    {
+      "time": "3:41",
+      "script": "well as who is responsible across my"
+    },
+    {
+      "time": "3:44",
+      "script": "entire team for the different aspects of"
+    },
+    {
+      "time": "3:46",
+      "script": "our content. Right? So here you can see"
+    },
+    {
+      "time": "3:48",
+      "script": "the different pieces of our systems,"
+    },
+    {
+      "time": "3:50",
+      "script": "right? All the way from awareness"
+    },
+    {
+      "time": "3:52",
+      "script": "through to renewal and giving it a sense"
+    },
+    {
+      "time": "3:54",
+      "script": "of okay, these are the different people"
+    },
+    {
+      "time": "3:55",
+      "script": "on my team in charge of this. If you"
+    },
+    {
+      "time": "3:57",
+      "script": "know, for whatever reason, not only do"
+    },
+    {
+      "time": "3:59",
+      "script": "we need to create content, but then I"
+    },
+    {
+      "time": "4:00",
+      "script": "need to delegate it to someone, it can"
+    },
+    {
+      "time": "4:02",
+      "script": "go and advise who I need to delegate it"
+    },
+    {
+      "time": "4:04",
+      "script": "to and it understands my overall content"
+    },
+    {
+      "time": "4:06",
+      "script": "strategy as well as company kind of"
+    },
+    {
+      "time": "4:08",
+      "script": "reporting structure. Lastly, what I see"
+    },
+    {
+      "time": "4:10",
+      "script": "a lot of founders needing to have is a"
+    },
+    {
+      "time": "4:12",
+      "script": "synthesized customer avatar because at"
+    },
+    {
+      "time": "4:15",
+      "script": "the end of the day, you're making"
+    },
+    {
+      "time": "4:16",
+      "script": "content for a specific kind of person."
+    },
+    {
+      "time": "4:19",
+      "script": "So, in here, you can see I've kind of"
+    },
+    {
+      "time": "4:21",
+      "script": "synthesized this core avatar. someone"
+    },
+    {
+      "time": "4:23",
+      "script": "named Jack who's making over 200k per"
+    },
+    {
+      "time": "4:25",
+      "script": "month, wants more of their time back,"
+    },
+    {
+      "time": "4:26",
+      "script": "wants to be successful and to design,"
+    },
+    {
+      "time": "4:28",
+      "script": "you know, the life of their dreams and"
+    },
+    {
+      "time": "4:30",
+      "script": "wants a company that really ultimately"
+    },
+    {
+      "time": "4:32",
+      "script": "grows when they're offline, right? And"
+    },
+    {
+      "time": "4:33",
+      "script": "so I've synthesized the core aspects of"
+    },
+    {
+      "time": "4:36",
+      "script": "this avatar and I feed this to Claude as"
+    },
+    {
+      "time": "4:39",
+      "script": "well. It's because I have all of these"
+    },
+    {
+      "time": "4:41",
+      "script": "systems organized that I'm able to go"
+    },
+    {
+      "time": "4:43",
+      "script": "and tool up, you know, the given project"
+    },
+    {
+      "time": "4:45",
+      "script": "at the maximum capacity possible. So it"
+    },
+    {
+      "time": "4:48",
+      "script": "has all the context it needs to then"
+    },
+    {
+      "time": "4:50",
+      "script": "work its magic. You don't just need AI."
+    },
+    {
+      "time": "4:52",
+      "script": "You need systems for AI to actually plug"
+    },
+    {
+      "time": "4:54",
+      "script": "into. Now, here's the real inflection"
+    },
+    {
+      "time": "4:56",
+      "script": "point, right? These systems aren't just"
+    },
+    {
+      "time": "4:58",
+      "script": "for the CEO. The goal here is that we"
+    },
+    {
+      "time": "5:00",
+      "script": "have these systems all documented and"
+    },
+    {
+      "time": "5:01",
+      "script": "we're able to level up the entire team."
+    },
+    {
+      "time": "5:03",
+      "script": "And this is exactly how we think about"
+    },
+    {
+      "time": "5:05",
+      "script": "things in Founder OS with the thousands"
+    },
+    {
+      "time": "5:06",
+      "script": "of founders that we're serving every"
+    },
+    {
+      "time": "5:08",
+      "script": "single week. We're not just going and"
+    },
+    {
+      "time": "5:10",
+      "script": "helping the core founder. Really, we're"
+    },
+    {
+      "time": "5:12",
+      "script": "trying to make the founder the most"
+    },
+    {
+      "time": "5:13",
+      "script": "useless person in the entire business by"
+    },
+    {
+      "time": "5:15",
+      "script": "leveraging and leveling up the seven"
+    },
+    {
+      "time": "5:17",
+      "script": "core team members on their team. And the"
+    },
+    {
+      "time": "5:19",
+      "script": "way to do that is by giving them the"
+    },
+    {
+      "time": "5:21",
+      "script": "systems, the prompts, the projects, and"
+    },
+    {
+      "time": "5:23",
+      "script": "the right AI tools so that they can go"
+    },
+    {
+      "time": "5:25",
+      "script": "and become leveraged and remove the"
+    },
+    {
+      "time": "5:27",
+      "script": "founder from most the operations. Step"
+    },
+    {
+      "time": "5:29",
+      "script": "three, building your project knowledge."
+    },
+    {
+      "time": "5:31",
+      "script": "This is one project we use all the time"
+    },
+    {
+      "time": "5:33",
+      "script": "across my team. It's called the voice of"
+    },
+    {
+      "time": "5:35",
+      "script": "customer. You can see in the project"
+    },
+    {
+      "time": "5:37",
+      "script": "knowledge here, we've put in our core"
+    },
+    {
+      "time": "5:39",
+      "script": "offers. And then I've also gone and put"
+    },
+    {
+      "time": "5:41",
+      "script": "in some core survey responses that we've"
+    },
+    {
+      "time": "5:44",
+      "script": "received across of the different surveys"
+    },
+    {
+      "time": "5:45",
+      "script": "we've done of our dream customers across"
+    },
+    {
+      "time": "5:48",
+      "script": "Found Velocity, Found Edge, which are"
+    },
+    {
+      "time": "5:50",
+      "script": "some of our highlevel offers or founders"
+    },
+    {
+      "time": "5:52",
+      "script": "doing over 30K per month looking to go"
+    },
+    {
+      "time": "5:54",
+      "script": "and remove themselves from operations"
+    },
+    {
+      "time": "5:56",
+      "script": "and set up their own founder brands."
+    },
+    {
+      "time": "5:58",
+      "script": "I've gone and surveyed hundreds of"
+    },
+    {
+      "time": "5:59",
+      "script": "founders and understand their goals,"
+    },
+    {
+      "time": "6:02",
+      "script": "their challenges, what they most want or"
+    },
+    {
+      "time": "6:04",
+      "script": "help with, and the parts that they found"
+    },
+    {
+      "time": "6:05",
+      "script": "most valuable from working with us. What"
+    },
+    {
+      "time": "6:07",
+      "script": "I'm able to then do is take the real"
+    },
+    {
+      "time": "6:09",
+      "script": "words that they've given us and then use"
+    },
+    {
+      "time": "6:11",
+      "script": "this project now to go and give me"
+    },
+    {
+      "time": "6:14",
+      "script": "different ideas for how we can evolve"
+    },
+    {
+      "time": "6:16",
+      "script": "founder OS and the kind of content we"
+    },
+    {
+      "time": "6:18",
+      "script": "can put out even on this YouTube channel"
+    },
+    {
+      "time": "6:20",
+      "script": "that's going to go and attract more"
+    },
+    {
+      "time": "6:21",
+      "script": "founders just like this. And so going"
+    },
+    {
+      "time": "6:24",
+      "script": "and onboarding AI is very similar to"
+    },
+    {
+      "time": "6:25",
+      "script": "going onboarding a new employee, right?"
+    },
+    {
+      "time": "6:27",
+      "script": "You don't just onboard someone and give"
+    },
+    {
+      "time": "6:29",
+      "script": "them no information, right? You got to"
+    },
+    {
+      "time": "6:31",
+      "script": "show them the ropes. And the same thing"
+    },
+    {
+      "time": "6:33",
+      "script": "goes when you're tooling up a claude"
+    },
+    {
+      "time": "6:34",
+      "script": "project. your project knowledge, just"
+    },
+    {
+      "time": "6:36",
+      "script": "like the prompt, is something that you"
+    },
+    {
+      "time": "6:37",
+      "script": "got to take your time with. You know,"
+    },
+    {
+      "time": "6:39",
+      "script": "I've got a ton of different projects set"
+    },
+    {
+      "time": "6:41",
+      "script": "up for different needs. I have my market"
+    },
+    {
+      "time": "6:43",
+      "script": "researcher project here, different"
+    },
+    {
+      "time": "6:45",
+      "script": "projects for ads, for lead magnets, for"
+    },
+    {
+      "time": "6:48",
+      "script": "Instagram reels, for workshops, for the"
+    },
+    {
+      "time": "6:51",
+      "script": "culture at Found for email courses,"
+    },
+    {
+      "time": "6:53",
+      "script": "YouTube scripts, a CRO, and Instagram"
+    },
+    {
+      "time": "6:56",
+      "script": "carousels. Right? So, I'd like to set up"
+    },
+    {
+      "time": "6:58",
+      "script": "projects for individual use cases"
+    },
+    {
+      "time": "7:01",
+      "script": "because the prompts are going to be"
+    },
+    {
+      "time": "7:02",
+      "script": "different depending on the use case and"
+    },
+    {
+      "time": "7:04",
+      "script": "so will the project knowledges. To give"
+    },
+    {
+      "time": "7:06",
+      "script": "you a quick example here, let's get into"
+    },
+    {
+      "time": "7:07",
+      "script": "the Instagram carousels prompt here."
+    },
+    {
+      "time": "7:09",
+      "script": "Okay, so inside this project, you can"
+    },
+    {
+      "time": "7:11",
+      "script": "see I've loaded up the prompt inside of"
+    },
+    {
+      "time": "7:13",
+      "script": "the instructions here. It's all"
+    },
+    {
+      "time": "7:15",
+      "script": "detailed, ready to go. I like to load it"
+    },
+    {
+      "time": "7:17",
+      "script": "up in the instructions so that you don't"
+    },
+    {
+      "time": "7:18",
+      "script": "need to put the prompt in ever again."
+    },
+    {
+      "time": "7:19",
+      "script": "It's just there. It's locked. It's"
+    },
+    {
+      "time": "7:21",
+      "script": "loaded. And my team can go and use this"
+    },
+    {
+      "time": "7:23",
+      "script": "and rip it. And keep in mind, this kind"
+    },
+    {
+      "time": "7:25",
+      "script": "of copy that we generated from this has"
+    },
+    {
+      "time": "7:26",
+      "script": "probably generated over 180 million"
+    },
+    {
+      "time": "7:29",
+      "script": "organic views over the last year. Now,"
+    },
+    {
+      "time": "7:31",
+      "script": "inside of the project here, you can see"
+    },
+    {
+      "time": "7:32",
+      "script": "I've got the dream client avatar, our"
+    },
+    {
+      "time": "7:34",
+      "script": "different offers. I've got a bunch of"
+    },
+    {
+      "time": "7:36",
+      "script": "examples of my best content ever. I've"
+    },
+    {
+      "time": "7:38",
+      "script": "got a bunch of transcripts of me doing"
+    },
+    {
+      "time": "7:39",
+      "script": "coaching calls, a million words for my"
+    },
+    {
+      "time": "7:41",
+      "script": "upcoming book, our brand positioning,"
+    },
+    {
+      "time": "7:43",
+      "script": "our manifesto, you know. So, the key"
+    },
+    {
+      "time": "7:44",
+      "script": "thing here too is again that product"
+    },
+    {
+      "time": "7:46",
+      "script": "knowledge alone probably has about 2"
+    },
+    {
+      "time": "7:48",
+      "script": "million words in it, right? So, you"
+    },
+    {
+      "time": "7:50",
+      "script": "don't need to have this at the gate, but"
+    },
+    {
+      "time": "7:52",
+      "script": "you know, from gradually systemizing"
+    },
+    {
+      "time": "7:53",
+      "script": "more of your business and ideally you"
+    },
+    {
+      "time": "7:55",
+      "script": "steal a bunch of the systems that we"
+    },
+    {
+      "time": "7:56",
+      "script": "give you inside of Founder OS, you're"
+    },
+    {
+      "time": "7:58",
+      "script": "able to leverage this to go and move up"
+    },
+    {
+      "time": "8:00",
+      "script": "the learning curve super fast. So, let"
+    },
+    {
+      "time": "8:02",
+      "script": "me show you how I use this. I typically"
+    },
+    {
+      "time": "8:04",
+      "script": "go and insert my kind of instructions"
+    },
+    {
+      "time": "8:07",
+      "script": "inside of Claude using Whisper Flow. So,"
+    },
+    {
+      "time": "8:09",
+      "script": "here we go. I need you to go and create"
+    },
+    {
+      "time": "8:11",
+      "script": "a Instagram carousel around strategic"
+    },
+    {
+      "time": "8:14",
+      "script": "laziness that shows people that when"
+    },
+    {
+      "time": "8:16",
+      "script": "they have the right systems in place"
+    },
+    {
+      "time": "8:17",
+      "script": "across content, operations, finance, and"
+    },
+    {
+      "time": "8:20",
+      "script": "audience growth that they're able to be"
+    },
+    {
+      "time": "8:22",
+      "script": "more strategically lazy as a founder and"
+    },
+    {
+      "time": "8:24",
+      "script": "let their team do the rest. We'll just"
+    },
+    {
+      "time": "8:26",
+      "script": "let it go and work its magic here. Here"
+    },
+    {
+      "time": "8:27",
+      "script": "you can see we've got our strategic"
+    },
+    {
+      "time": "8:29",
+      "script": "laziness carousel here. So slide one,"
+    },
+    {
+      "time": "8:32",
+      "script": "the art of strategic laziness. Why the"
+    },
+    {
+      "time": "8:34",
+      "script": "best founders work less and earn more."
+    },
+    {
+      "time": "8:36",
+      "script": "Even that title, it's taking that from"
+    },
+    {
+      "time": "8:38",
+      "script": "one of my best YouTube videos ever. As"
+    },
+    {
+      "time": "8:40",
+      "script": "you can see here, then it's indicating"
+    },
+    {
+      "time": "8:42",
+      "script": "every single slide and the copy that"
+    },
+    {
+      "time": "8:44",
+      "script": "needs to go on it. I'm not necessarily"
+    },
+    {
+      "time": "8:45",
+      "script": "taking this one to one and just using"
+    },
+    {
+      "time": "8:47",
+      "script": "this for the carousel, but it certainly"
+    },
+    {
+      "time": "8:49",
+      "script": "serves as a lot of inspiration that"
+    },
+    {
+      "time": "8:51",
+      "script": "we'll use. And the cool thing that I've"
+    },
+    {
+      "time": "8:52",
+      "script": "noticed with this as well is that in the"
+    },
+    {
+      "time": "8:54",
+      "script": "case of carousels, it's actually allowed"
+    },
+    {
+      "time": "8:56",
+      "script": "my designer on my team, Yan, to become"
+    },
+    {
+      "time": "8:58",
+      "script": "one hell of a copywriter as well. So"
+    },
+    {
+      "time": "9:01",
+      "script": "that I'm no longer the bottleneck having"
+    },
+    {
+      "time": "9:03",
+      "script": "to make all this stuff. He's able to be"
+    },
+    {
+      "time": "9:05",
+      "script": "empowered with my copy, with my projects"
+    },
+    {
+      "time": "9:08",
+      "script": "and prompts to go and create legendary"
+    },
+    {
+      "time": "9:11",
+      "script": "carousels that founders love. All right,"
+    },
+    {
+      "time": "9:13",
+      "script": "so I know that sounds like a lot of"
+    },
+    {
+      "time": "9:15",
+      "script": "stuff, but the cool thing is I went and"
+    },
+    {
+      "time": "9:16",
+      "script": "synthesized all of the stuff I just"
+    },
+    {
+      "time": "9:18",
+      "script": "showed you into my project knowledge"
+    },
+    {
+      "time": "9:20",
+      "script": "template that you can go and find via"
+    },
+    {
+      "time": "9:21",
+      "script": "the link in the description. So go and"
+    },
+    {
+      "time": "9:23",
+      "script": "download that so this doesn't look"
+    },
+    {
+      "time": "9:24",
+      "script": "nearly as intimidating as it maybe is"
+    },
+    {
+      "time": "9:26",
+      "script": "coming across right now and can allow"
+    },
+    {
+      "time": "9:27",
+      "script": "you to get up the learning curve at"
+    },
+    {
+      "time": "9:28",
+      "script": "record speed. So, now that we've gone"
+    },
+    {
+      "time": "9:30",
+      "script": "and turned this generic AI into an AI"
+    },
+    {
+      "time": "9:32",
+      "script": "that actually understands me, let's move"
+    },
+    {
+      "time": "9:34",
+      "script": "on to the next part here. Step four,"
+    },
+    {
+      "time": "9:36",
+      "script": "project instructions and memory. I don't"
+    },
+    {
+      "time": "9:38",
+      "script": "want my team to have to constantly go"
+    },
+    {
+      "time": "9:39",
+      "script": "back to that prompt stock and update it"
+    },
+    {
+      "time": "9:41",
+      "script": "every time. Ideally, I just lock and"
+    },
+    {
+      "time": "9:43",
+      "script": "load the instructions of a given project"
+    },
+    {
+      "time": "9:45",
+      "script": "with a prompt and it's good to go. So,"
+    },
+    {
+      "time": "9:47",
+      "script": "here you can see as an example in the"
+    },
+    {
+      "time": "9:49",
+      "script": "Instagram carousels project, I've got an"
+    },
+    {
+      "time": "9:51",
+      "script": "entire detailed prompt all set up here."
+    },
+    {
+      "time": "9:54",
+      "script": "Okay? And so, you know, I've noticed"
+    },
+    {
+      "time": "9:55",
+      "script": "already, you know, my social media"
+    },
+    {
+      "time": "9:56",
+      "script": "manager, my designer, they're like 80%"
+    },
+    {
+      "time": "9:59",
+      "script": "more productive because of projects like"
+    },
+    {
+      "time": "10:01",
+      "script": "this. Now, the memory, I think, is"
+    },
+    {
+      "time": "10:02",
+      "script": "something that doesn't get talked enough"
+    },
+    {
+      "time": "10:04",
+      "script": "about inside of Claude. Okay,"
+    },
+    {
+      "time": "10:05",
+      "script": "essentially Claude regenerates memory"
+    },
+    {
+      "time": "10:07",
+      "script": "every evening from your past chats in"
+    },
+    {
+      "time": "10:10",
+      "script": "this project. And the cool thing, too,"
+    },
+    {
+      "time": "10:12",
+      "script": "is that I can go and tool up the memory"
+    },
+    {
+      "time": "10:14",
+      "script": "to actually be able to go and see what's"
+    },
+    {
+      "time": "10:16",
+      "script": "going on in other projects. So, as an"
+    },
+    {
+      "time": "10:18",
+      "script": "example, if I have amazing copy being"
+    },
+    {
+      "time": "10:20",
+      "script": "written for X and an awesome email"
+    },
+    {
+      "time": "10:22",
+      "script": "course project, I can go and tool up the"
+    },
+    {
+      "time": "10:24",
+      "script": "memory to actually be going and taking a"
+    },
+    {
+      "time": "10:26",
+      "script": "lot of the good sauce I'm building in"
+    },
+    {
+      "time": "10:28",
+      "script": "those projects and feeding that memory"
+    },
+    {
+      "time": "10:30",
+      "script": "into this project as well. Project"
+    },
+    {
+      "time": "10:32",
+      "script": "instructions ensure that you're giving"
+    },
+    {
+      "time": "10:33",
+      "script": "AI your standards, not just generic"
+    },
+    {
+      "time": "10:36",
+      "script": "instructions. When we go and dive into"
+    },
+    {
+      "time": "10:37",
+      "script": "this, right, you can see as an example"
+    },
+    {
+      "time": "10:39",
+      "script": "inside of the Instagram carousels"
+    },
+    {
+      "time": "10:41",
+      "script": "instructions, I'm setting this standard,"
+    },
+    {
+      "time": "10:43",
+      "script": "right, that I want the outputs to be"
+    },
+    {
+      "time": "10:44",
+      "script": "like the best copywriters that have ever"
+    },
+    {
+      "time": "10:47",
+      "script": "existed. I'm also establishing a"
+    },
+    {
+      "time": "10:49",
+      "script": "standard by which I want it to go and"
+    },
+    {
+      "time": "10:50",
+      "script": "attract the kind of founders that would"
+    },
+    {
+      "time": "10:52",
+      "script": "even join Founder OS in the first place,"
+    },
+    {
+      "time": "10:54",
+      "script": "right? So, targeting founders that are"
+    },
+    {
+      "time": "10:55",
+      "script": "ideally doing over 30K and beyond per"
+    },
+    {
+      "time": "10:58",
+      "script": "month. Now, when it comes then to the"
+    },
+    {
+      "time": "11:00",
+      "script": "kind of carousels I wanted to create,"
+    },
+    {
+      "time": "11:02",
+      "script": "the big thing that I do with each format"
+    },
+    {
+      "time": "11:04",
+      "script": "is I've learned these different hacks"
+    },
+    {
+      "time": "11:06",
+      "script": "that I often share with founders inside"
+    },
+    {
+      "time": "11:08",
+      "script": "of Founder OS. Part of the inside sauce"
+    },
+    {
+      "time": "11:10",
+      "script": "as an example with carousels is that you"
+    },
+    {
+      "time": "11:12",
+      "script": "want every single slide of a carousel to"
+    },
+    {
+      "time": "11:14",
+      "script": "be able to be shared on stories unto"
+    },
+    {
+      "time": "11:16",
+      "script": "itself. And so, I go and feed that into"
+    },
+    {
+      "time": "11:18",
+      "script": "the instructions so that I'm setting"
+    },
+    {
+      "time": "11:20",
+      "script": "that standard for everything that it"
+    },
+    {
+      "time": "11:22",
+      "script": "creates. From there also I'll get into"
+    },
+    {
+      "time": "11:24",
+      "script": "the kind of pain points I want it to hit"
+    },
+    {
+      "time": "11:26",
+      "script": "and the dreams I want to encapsulate as"
+    },
+    {
+      "time": "11:28",
+      "script": "well as the emotional resonance I want"
+    },
+    {
+      "time": "11:30",
+      "script": "to have because my goal with things like"
+    },
+    {
+      "time": "11:32",
+      "script": "content right is that I basically want"
+    },
+    {
+      "time": "11:34",
+      "script": "to read the minds and the subconscious"
+    },
+    {
+      "time": "11:36",
+      "script": "of the kind of customer that I'm looking"
+    },
+    {
+      "time": "11:37",
+      "script": "to attract. So, let's go and look at the"
+    },
+    {
+      "time": "11:40",
+      "script": "strategic laziness carousel that we"
+    },
+    {
+      "time": "11:41",
+      "script": "outputed, right? And I'll show you the"
+    },
+    {
+      "time": "11:43",
+      "script": "ways that it's going and pulling some of"
+    },
+    {
+      "time": "11:45",
+      "script": "the instructions that I've given it. As"
+    },
+    {
+      "time": "11:47",
+      "script": "we go and look at this, right, it's"
+    },
+    {
+      "time": "11:49",
+      "script": "pulling unique stories and backgrounds."
+    },
+    {
+      "time": "11:51",
+      "script": "You know, it knows that, you know, I"
+    },
+    {
+      "time": "11:52",
+      "script": "wanted to use my own unique experience."
+    },
+    {
+      "time": "11:55",
+      "script": "This doesn't just sound like some AI"
+    },
+    {
+      "time": "11:56",
+      "script": "goblygook. I have a lot of different"
+    },
+    {
+      "time": "11:58",
+      "script": "documentation I've given it that's"
+    },
+    {
+      "time": "11:59",
+      "script": "around those 16-hour work days that I"
+    },
+    {
+      "time": "12:01",
+      "script": "used to have in my first business. And"
+    },
+    {
+      "time": "12:03",
+      "script": "so, it's pulling that knowledge into"
+    },
+    {
+      "time": "12:04",
+      "script": "this piece of copy. In addition to that,"
+    },
+    {
+      "time": "12:06",
+      "script": "right, you can see that a lot of what"
+    },
+    {
+      "time": "12:08",
+      "script": "it's trying to do is writing in the same"
+    },
+    {
+      "time": "12:10",
+      "script": "rhythm that I write in, right? Short"
+    },
+    {
+      "time": "12:12",
+      "script": "sentences, oftentimes having things"
+    },
+    {
+      "time": "12:14",
+      "script": "like, you know, it needs better system,"
+    },
+    {
+      "time": "12:15",
+      "script": "systems for content, system operations,"
+    },
+    {
+      "time": "12:17",
+      "script": "systems for hiring, systems for growth."
+    },
+    {
+      "time": "12:19",
+      "script": "This is the kind of words that I use on"
+    },
+    {
+      "time": "12:20",
+      "script": "a lot of my coaching calls and stuff"
+    },
+    {
+      "time": "12:22",
+      "script": "I've even said in a lot of my content."
+    },
+    {
+      "time": "12:24",
+      "script": "The other thing that it's doing based on"
+    },
+    {
+      "time": "12:25",
+      "script": "the instructions is it's actually"
+    },
+    {
+      "time": "12:27",
+      "script": "pulling a bunch of copy from my best"
+    },
+    {
+      "time": "12:29",
+      "script": "tweets ever. These are just a few"
+    },
+    {
+      "time": "12:31",
+      "script": "examples just showing you the power of"
+    },
+    {
+      "time": "12:33",
+      "script": "setting up the right instructions, the"
+    },
+    {
+      "time": "12:34",
+      "script": "right project knowledge to go and get"
+    },
+    {
+      "time": "12:36",
+      "script": "outputs that authentically have your"
+    },
+    {
+      "time": "12:38",
+      "script": "voice. Step five, create projects for"
+    },
+    {
+      "time": "12:40",
+      "script": "every format. So, let me give you a"
+    },
+    {
+      "time": "12:42",
+      "script": "sense of the different projects that"
+    },
+    {
+      "time": "12:43",
+      "script": "I've set up across my team to go and"
+    },
+    {
+      "time": "12:45",
+      "script": "level everyone up and make them at least"
+    },
+    {
+      "time": "12:47",
+      "script": "40% more productive. We have projects"
+    },
+    {
+      "time": "12:49",
+      "script": "for Instagram carousels, for viral X"
+    },
+    {
+      "time": "12:51",
+      "script": "tweets, for Instagram stories, YouTube"
+    },
+    {
+      "time": "12:53",
+      "script": "scripts, lead magnets, you know, we have"
+    },
+    {
+      "time": "12:54",
+      "script": "them for email courses, for my"
+    },
+    {
+      "time": "12:56",
+      "script": "operations, so it runs like clockwork."
+    },
+    {
+      "time": "12:58",
+      "script": "We have it for upsells and for you know"
+    },
+    {
+      "time": "13:00",
+      "script": "our customer success department. I have"
+    },
+    {
+      "time": "13:02",
+      "script": "it to help me go and create the"
+    },
+    {
+      "time": "13:03",
+      "script": "different run of shows for the different"
+    },
+    {
+      "time": "13:04",
+      "script": "experiences you run whether it's in"
+    },
+    {
+      "time": "13:06",
+      "script": "Austin, the Doommites, Sedona, Bali, you"
+    },
+    {
+      "time": "13:09",
+      "script": "name it. Every single format across all"
+    },
+    {
+      "time": "13:11",
+      "script": "the different departments has"
+    },
+    {
+      "time": "13:13",
+      "script": "essentially an AI project which is"
+    },
+    {
+      "time": "13:14",
+      "script": "almost like an AI strategist that can"
+    },
+    {
+      "time": "13:16",
+      "script": "help them go and move forward. So let me"
+    },
+    {
+      "time": "13:18",
+      "script": "peel behind the scenes here and show you"
+    },
+    {
+      "time": "13:20",
+      "script": "how this all works, right? So voice of"
+    },
+    {
+      "time": "13:22",
+      "script": "customer, right? I may go and use this"
+    },
+    {
+      "time": "13:24",
+      "script": "specific project and my team will use"
+    },
+    {
+      "time": "13:26",
+      "script": "this to help us go and come up with say"
+    },
+    {
+      "time": "13:28",
+      "script": "content ideas that are based on the"
+    },
+    {
+      "time": "13:30",
+      "script": "surveys that we've gotten from founders."
+    },
+    {
+      "time": "13:32",
+      "script": "And so give me the top 20 content ideas"
+    },
+    {
+      "time": "13:35",
+      "script": "ranked from best to worst that will"
+    },
+    {
+      "time": "13:37",
+      "script": "cause founders that are doing over"
+    },
+    {
+      "time": "13:38",
+      "script": "$100,000 per month wanting to come work"
+    },
+    {
+      "time": "13:40",
+      "script": "with me and the team to go and remove"
+    },
+    {
+      "time": "13:43",
+      "script": "themselves from operations and build"
+    },
+    {
+      "time": "13:44",
+      "script": "their founder brands. And so we'll give"
+    },
+    {
+      "time": "13:46",
+      "script": "that to the voice of customer project"
+    },
+    {
+      "time": "13:48",
+      "script": "and boom, right? This thing is going to"
+    },
+    {
+      "time": "13:50",
+      "script": "go and leverage the insane amount of"
+    },
+    {
+      "time": "13:52",
+      "script": "context as well as the project knowledge"
+    },
+    {
+      "time": "13:54",
+      "script": "there to go and come up with content"
+    },
+    {
+      "time": "13:55",
+      "script": "ideas that we can then leverage for"
+    },
+    {
+      "time": "13:57",
+      "script": "platforms like Instagram, YouTube, you"
+    },
+    {
+      "time": "13:59",
+      "script": "name it. Here you can see it, right?"
+    },
+    {
+      "time": "14:00",
+      "script": "It's coming up with a bunch of"
+    },
+    {
+      "time": "14:02",
+      "script": "highquality ranked ideas, right? Things"
+    },
+    {
+      "time": "14:04",
+      "script": "like you built a 300k per month business"
+    },
+    {
+      "time": "14:07",
+      "script": "with $0 systems or the content hamster"
+    },
+    {
+      "time": "14:09",
+      "script": "wheel is killing your business. You"
+    },
+    {
+      "time": "14:10",
+      "script": "check Slack before brushing your teeth."
+    },
+    {
+      "time": "14:12",
+      "script": "I can't take a vacation without the"
+    },
+    {
+      "time": "14:14",
+      "script": "business stopping, you know, and it's"
+    },
+    {
+      "time": "14:15",
+      "script": "coming up with a bunch of other"
+    },
+    {
+      "time": "14:16",
+      "script": "highlever content ideas. Now, I'm not"
+    },
+    {
+      "time": "14:18",
+      "script": "saying that AI handles everything, but"
+    },
+    {
+      "time": "14:20",
+      "script": "it handles the 80% that it can just do,"
+    },
+    {
+      "time": "14:23",
+      "script": "leaving your team to do the 20% that's"
+    },
+    {
+      "time": "14:25",
+      "script": "your team's competitive edge. Your team"
+    },
+    {
+      "time": "14:27",
+      "script": "stops being order takers and are able to"
+    },
+    {
+      "time": "14:29",
+      "script": "evolve into being strategic operators."
+    },
+    {
+      "time": "14:30",
+      "script": "One infrastructure for every format, all"
+    },
+    {
+      "time": "14:33",
+      "script": "in your voice. Imagine the power of"
+    },
+    {
+      "time": "14:35",
+      "script": "having this set up across your personal"
+    },
+    {
+      "time": "14:37",
+      "script": "media company. This is how you build"
+    },
+    {
+      "time": "14:39",
+      "script": "leverage. Step six, team integration. A"
+    },
+    {
+      "time": "14:42",
+      "script": "big piece of this now that you have this"
+    },
+    {
+      "time": "14:43",
+      "script": "all toolled up is to actually train your"
+    },
+    {
+      "time": "14:45",
+      "script": "team on this. It's not going to be"
+    },
+    {
+      "time": "14:47",
+      "script": "immediately obvious to each person how"
+    },
+    {
+      "time": "14:49",
+      "script": "they can go and use this. And so the"
+    },
+    {
+      "time": "14:50",
+      "script": "typical process here is that I've gone"
+    },
+    {
+      "time": "14:52",
+      "script": "and I've toled up a given project. I've"
+    },
+    {
+      "time": "14:54",
+      "script": "used it myself for at least a couple"
+    },
+    {
+      "time": "14:56",
+      "script": "weeks, right? And gone it to the stage"
+    },
+    {
+      "time": "14:58",
+      "script": "where I'm like, \"Okay, this is ready to"
+    },
+    {
+      "time": "14:59",
+      "script": "ship to the rest of my squad.\" And then"
+    },
+    {
+      "time": "15:01",
+      "script": "from there on a given meeting, I'm going"
+    },
+    {
+      "time": "15:03",
+      "script": "to go and show them some of the ways I'm"
+    },
+    {
+      "time": "15:04",
+      "script": "using them. Then from there, it's all"
+    },
+    {
+      "time": "15:06",
+      "script": "documented. There's the now the AI"
+    },
+    {
+      "time": "15:08",
+      "script": "project inside Claude that people"
+    },
+    {
+      "time": "15:10",
+      "script": "leverage. And then there's a Loom video"
+    },
+    {
+      "time": "15:12",
+      "script": "typically of me actually using the given"
+    },
+    {
+      "time": "15:14",
+      "script": "thing. And then from there, I'm"
+    },
+    {
+      "time": "15:15",
+      "script": "empowering my team to take it the"
+    },
+    {
+      "time": "15:17",
+      "script": "distance. Here's the reality. I think"
+    },
+    {
+      "time": "15:18",
+      "script": "while most people are focused on using"
+    },
+    {
+      "time": "15:20",
+      "script": "AI to replace their team, the real magic"
+    },
+    {
+      "time": "15:22",
+      "script": "is integrating your existing team into"
+    },
+    {
+      "time": "15:24",
+      "script": "AI. So, you're getting basically a 30"
+    },
+    {
+      "time": "15:26",
+      "script": "person team out of those five core team"
+    },
+    {
+      "time": "15:28",
+      "script": "members you have. When you start"
+    },
+    {
+      "time": "15:30",
+      "script": "injecting AI into your team like this,"
+    },
+    {
+      "time": "15:32",
+      "script": "your team stops feeling overwhelmed and"
+    },
+    {
+      "time": "15:34",
+      "script": "starts to feel empowered. When I'm"
+    },
+    {
+      "time": "15:35",
+      "script": "working directly with founders inside of"
+    },
+    {
+      "time": "15:37",
+      "script": "Founder OS, I'm not just trying to level"
+    },
+    {
+      "time": "15:38",
+      "script": "up the founder. It's much more important"
+    },
+    {
+      "time": "15:40",
+      "script": "to me that I'm leveling up at least"
+    },
+    {
+      "time": "15:42",
+      "script": "seven core team members so that ideally"
+    },
+    {
+      "time": "15:44",
+      "script": "I can just make the founder the least"
+    },
+    {
+      "time": "15:46",
+      "script": "important person in that business. If"
+    },
+    {
+      "time": "15:47",
+      "script": "you're watching this and you're"
+    },
+    {
+      "time": "15:48",
+      "script": "thinking, damn, you know, I'm ready for"
+    },
+    {
+      "time": "15:50",
+      "script": "my company to have this level of"
+    },
+    {
+      "time": "15:51",
+      "script": "infrastructure. Well, that's exactly"
+    },
+    {
+      "time": "15:53",
+      "script": "what we do in Founder OS. We're not just"
+    },
+    {
+      "time": "15:55",
+      "script": "going to level up you, but we'll level"
+    },
+    {
+      "time": "15:56",
+      "script": "up your entire team and give you the"
+    },
+    {
+      "time": "15:58",
+      "script": "leverage necessary to go and compete"
+    },
+    {
+      "time": "16:00",
+      "script": "over the next 3 years. It's the systems"
+    },
+    {
+      "time": "16:02",
+      "script": "plus AI plus the right team trained up"
+    },
+    {
+      "time": "16:05",
+      "script": "that allow you to go and take advantage"
+    },
+    {
+      "time": "16:07",
+      "script": "of this next wave. Step seven, weekly"
+    },
+    {
+      "time": "16:10",
+      "script": "improvement. AI is not just some set it"
+    },
+    {
+      "time": "16:12",
+      "script": "and forget it thing. Okay, I see AI"
+    },
+    {
+      "time": "16:14",
+      "script": "almost like its own software product."
+    },
+    {
+      "time": "16:16",
+      "script": "And inside of my portfolio of companies,"
+    },
+    {
+      "time": "16:18",
+      "script": "we're constantly going and iterating on"
+    },
+    {
+      "time": "16:19",
+      "script": "the prompts, the projects because the"
+    },
+    {
+      "time": "16:21",
+      "script": "truth is things like the content"
+    },
+    {
+      "time": "16:23",
+      "script": "platforms change, your team changes,"
+    },
+    {
+      "time": "16:25",
+      "script": "right? The best practices in your"
+    },
+    {
+      "time": "16:26",
+      "script": "company will change and your core"
+    },
+    {
+      "time": "16:28",
+      "script": "documentation will change. You know what"
+    },
+    {
+      "time": "16:29",
+      "script": "are the things that need to be updated?"
+    },
+    {
+      "time": "16:31",
+      "script": "The given prompts need to be updated as"
+    },
+    {
+      "time": "16:33",
+      "script": "you go and learn different insights and"
+    },
+    {
+      "time": "16:35",
+      "script": "your brand evolves. The project"
+    },
+    {
+      "time": "16:36",
+      "script": "knowledges need to evolve as you know"
+    },
+    {
+      "time": "16:38",
+      "script": "the different kind of documentation"
+    },
+    {
+      "time": "16:40",
+      "script": "across your company changes and you're"
+    },
+    {
+      "time": "16:42",
+      "script": "obviously going to want to make new and"
+    },
+    {
+      "time": "16:44",
+      "script": "different projects as you expand to new"
+    },
+    {
+      "time": "16:46",
+      "script": "and different projects as well as"
+    },
+    {
+      "time": "16:48",
+      "script": "different platforms. It's important to"
+    },
+    {
+      "time": "16:49",
+      "script": "see this as something that you want to"
+    },
+    {
+      "time": "16:51",
+      "script": "get to a certain level out the gate"
+    },
+    {
+      "time": "16:52",
+      "script": "which is exactly what we help install"
+    },
+    {
+      "time": "16:54",
+      "script": "with people inside of founder less so"
+    },
+    {
+      "time": "16:56",
+      "script": "that out the gate you're not trying to"
+    },
+    {
+      "time": "16:57",
+      "script": "get from 10% to 20% to 30%. We can get"
+    },
+    {
+      "time": "17:00",
+      "script": "you from like 0 to 80% in a matter of"
+    },
+    {
+      "time": "17:02",
+      "script": "weeks. But from there, it's this mindset"
+    },
+    {
+      "time": "17:05",
+      "script": "of continuous improvement, making each"
+    },
+    {
+      "time": "17:08",
+      "script": "project 10% better every week. You know,"
+    },
+    {
+      "time": "17:10",
+      "script": "in a year, your company's leveling up"
+    },
+    {
+      "time": "17:12",
+      "script": "like 400x. So, here's the question. Are"
+    },
+    {
+      "time": "17:14",
+      "script": "you ready to stop managing chaos and"
+    },
+    {
+      "time": "17:16",
+      "script": "start compounding clarity? If you're"
+    },
+    {
+      "time": "17:18",
+      "script": "doing 30K, 100K, or even 300K a month,"
+    },
+    {
+      "time": "17:21",
+      "script": "the magic is going to come from having"
+    },
+    {
+      "time": "17:23",
+      "script": "the right systems and AI set up across"
+    },
+    {
+      "time": "17:25",
+      "script": "your entire team. If you've been"
+    },
+    {
+      "time": "17:27",
+      "script": "watching this video, you've got a taste"
+    },
+    {
+      "time": "17:29",
+      "script": "of what's possible. But the next logical"
+    },
+    {
+      "time": "17:31",
+      "script": "step is to go and join founder us where"
+    },
+    {
+      "time": "17:33",
+      "script": "we go and give you all these systems and"
+    },
+    {
+      "time": "17:35",
+      "script": "not just you as the founder but give it"
+    },
+    {
+      "time": "17:36",
+      "script": "to your entire team and help level them"
+    },
+    {
+      "time": "17:38",
+      "script": "up. This isn't some course or any"
+    },
+    {
+      "time": "17:40",
+      "script": "like that, right? This is"
+    },
+    {
+      "time": "17:42",
+      "script": "actually going and installing this"
+    },
+    {
+      "time": "17:44",
+      "script": "entire AI first operating system in your"
+    },
+    {
+      "time": "17:46",
+      "script": "business. You know, not just me and my"
+    },
+    {
+      "time": "17:48",
+      "script": "team, right? But you'll have access to"
+    },
+    {
+      "time": "17:49",
+      "script": "text me anytime you need me as well as"
+    },
+    {
+      "time": "17:52",
+      "script": "scheduled one-on-one calls every other"
+    },
+    {
+      "time": "17:54",
+      "script": "week with me directly, right? So that I"
+    },
+    {
+      "time": "17:56",
+      "script": "can go and help you through all of this"
+    },
+    {
+      "time": "17:57",
+      "script": "wave, right? and get these systems,"
+    },
+    {
+      "time": "17:59",
+      "script": "these projects, these prompts installed"
+    },
+    {
+      "time": "18:01",
+      "script": "across your team and then help go and"
+    },
+    {
+      "time": "18:03",
+      "script": "make sure it's as efficiently scaling as"
+    },
+    {
+      "time": "18:05",
+      "script": "possible. The future belongs to founders"
+    },
+    {
+      "time": "18:06",
+      "script": "who understand leverage. It's AI plus"
+    },
+    {
+      "time": "18:09",
+      "script": "systems plus leveling up your entire"
+    },
+    {
+      "time": "18:11",
+      "script": "team. If you're interested in learning"
+    },
+    {
+      "time": "18:12",
+      "script": "more about how I actually use AI inside"
+    },
+    {
+      "time": "18:14",
+      "script": "of my companies, go and check out this"
+    },
+    {
+      "time": "18:16",
+      "script": "next video. I'll see you over there. Be"
+    },
+    {
+      "time": "18:18",
+      "script": "sure to like and subscribe and welcome"
+    },
+    {
+      "time": "18:20",
+      "script": "to the founder freedom movement."
+    }
+  ]
+}

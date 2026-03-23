@@ -1,0 +1,3 @@
+- [ ] Make the Logo
+- [ ] Build a Website
+- [ ] Build a Claude or ChatGPT project Of nate and his strategy to scale videos 

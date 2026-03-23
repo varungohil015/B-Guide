@@ -1,0 +1,12 @@
+{
+  "id": "cmd-2008",
+  "created_at": "2026-03-21T21:32:07Z",
+  "action": "calendar.upsert_block",
+  "args": {
+    "title": "Optional Skill / Systems Block",
+    "day": "2026-03-22",
+    "start_time": "20:00",
+    "duration": 60,
+    "description": "Only for leverage work: tools, SOPs, learning tied to immediate execution. Skip if tired."
+  }
+}

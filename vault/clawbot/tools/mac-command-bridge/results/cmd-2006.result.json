@@ -1,0 +1,14 @@
+{
+  "id": "cmd-2006",
+  "completed_at": "2026-03-22T08:43:25Z",
+  "status": "ok",
+  "action": "calendar.upsert_block",
+  "result": {
+    "output": {
+      "id": "m070o91ko4n6fa39iuhcdm9sbk",
+      "htmlLink": "https://www.google.com/calendar/event?eid=bTA3MG85MWtvNG42ZmEzOWl1aGNkbTlzYmsgbm90ZmFrZXl0Y2hAbQ"
+    },
+    "stderr": "",
+    "returncode": 0
+  }
+}

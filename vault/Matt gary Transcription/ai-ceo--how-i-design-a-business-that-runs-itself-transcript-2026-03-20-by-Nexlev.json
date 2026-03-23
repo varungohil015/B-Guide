@@ -1,0 +1,2368 @@
+{
+  "metadata": {
+    "videoId": "nDr4al8hnec",
+    "videoTitle": "AI CEO: how I design a business that runs itself",
+    "exportDate": "2026-03-20T13:01:21.412Z"
+  },
+  "summary": null,
+  "topics": null,
+  "beautifyScript": null,
+  "transcript": [
+    {
+      "time": "0:14",
+      "script": "Most people that are using AI are"
+    },
+    {
+      "time": "0:16",
+      "script": "obsessed with only using 10% of what"
+    },
+    {
+      "time": "0:18",
+      "script": "it's actually capable of doing. Now, you"
+    },
+    {
+      "time": "0:20",
+      "script": "know, I'm no AI expert here, right?"
+    },
+    {
+      "time": "0:22",
+      "script": "Right? I'm a CEO that designs systems to"
+    },
+    {
+      "time": "0:24",
+      "script": "be able to remove myself from the"
+    },
+    {
+      "time": "0:26",
+      "script": "operations of my businesses. You know,"
+    },
+    {
+      "time": "0:27",
+      "script": "be able to really enjoy life and build"
+    },
+    {
+      "time": "0:30",
+      "script": "businesses based on freedom. You know,"
+    },
+    {
+      "time": "0:32",
+      "script": "what I want to go and show you here is"
+    },
+    {
+      "time": "0:33",
+      "script": "not some tutorial or how to go and use"
+    },
+    {
+      "time": "0:35",
+      "script": "tools step by step. This is an actual"
+    },
+    {
+      "time": "0:38",
+      "script": "jam session of me going and sitting down"
+    },
+    {
+      "time": "0:39",
+      "script": "with 30 high-powered CEOs, helping them"
+    },
+    {
+      "time": "0:42",
+      "script": "go and leverage AI so they can go and"
+    },
+    {
+      "time": "0:45",
+      "script": "remove themselves from the operations of"
+    },
+    {
+      "time": "0:46",
+      "script": "their business, become 10x more"
+    },
+    {
+      "time": "0:48",
+      "script": "productive, and be able to go and get"
+    },
+    {
+      "time": "0:51",
+      "script": "more of their time back so they can"
+    },
+    {
+      "time": "0:52",
+      "script": "build an amazing business and actually"
+    },
+    {
+      "time": "0:54",
+      "script": "go and enjoy life. This is from Founder"
+    },
+    {
+      "time": "0:57",
+      "script": "OS, the high growth community of"
+    },
+    {
+      "time": "0:59",
+      "script": "founders and CEOs that I run, helping"
+    },
+    {
+      "time": "1:00",
+      "script": "them build their founder brands and go"
+    },
+    {
+      "time": "1:02",
+      "script": "and remove themselves from operations."
+    },
+    {
+      "time": "1:04",
+      "script": "If you're interested in checking out"
+    },
+    {
+      "time": "1:06",
+      "script": "Foundest, you can go check it out via"
+    },
+    {
+      "time": "1:08",
+      "script": "the link in the description. Much love."
+    },
+    {
+      "time": "1:10",
+      "script": "Let's get into it. So, let's get into"
+    },
+    {
+      "time": "1:12",
+      "script": "the AI side of things. How many people"
+    },
+    {
+      "time": "1:14",
+      "script": "are like using like AI? Would they say"
+    },
+    {
+      "time": "1:17",
+      "script": "like every day all day? Pretty hardcore."
+    },
+    {
+      "time": "1:20",
+      "script": "Okay, cool. So, CHBT I'm primarily using"
+    },
+    {
+      "time": "1:23",
+      "script": "as like a business advisor. I'll show"
+    },
+    {
+      "time": "1:25",
+      "script": "you here in a second. like this 10x"
+    },
+    {
+      "time": "1:27",
+      "script": "profit project I've created that"
+    },
+    {
+      "time": "1:29",
+      "script": "essentially is almost like a board of"
+    },
+    {
+      "time": "1:31",
+      "script": "adviserss that whenever I'm going and"
+    },
+    {
+      "time": "1:33",
+      "script": "creating anything business related I'm"
+    },
+    {
+      "time": "1:36",
+      "script": "often times running it through this or"
+    },
+    {
+      "time": "1:38",
+      "script": "getting it to go and produce the initial"
+    },
+    {
+      "time": "1:40",
+      "script": "draft of something that then I can go"
+    },
+    {
+      "time": "1:42",
+      "script": "and refine and from there um Claude is"
+    },
+    {
+      "time": "1:45",
+      "script": "what I'm typically using on all content"
+    },
+    {
+      "time": "1:47",
+      "script": "related stuff is kind of like the"
+    },
+    {
+      "time": "1:49",
+      "script": "content team and I have a bunch of"
+    },
+    {
+      "time": "1:51",
+      "script": "different formats that we make content"
+    },
+    {
+      "time": "1:53",
+      "script": "for obviously YouTube scripts Instagram"
+    },
+    {
+      "time": "1:55",
+      "script": "carousels expost post, LinkedIn,"
+    },
+    {
+      "time": "1:57",
+      "script": "whatever, because every format slightly"
+    },
+    {
+      "time": "1:58",
+      "script": "different. We need a different project"
+    },
+    {
+      "time": "2:00",
+      "script": "and a different project knowledge for"
+    },
+    {
+      "time": "2:01",
+      "script": "each of them. So, what I'll go is I'll"
+    },
+    {
+      "time": "2:02",
+      "script": "show you like how I've gone and set up"
+    },
+    {
+      "time": "2:04",
+      "script": "the 10x profit project. I'll do the same"
+    },
+    {
+      "time": "2:06",
+      "script": "and show you how my cloud is set up and"
+    },
+    {
+      "time": "2:07",
+      "script": "how the team leverages that and then"
+    },
+    {
+      "time": "2:09",
+      "script": "just some other useful tools um along"
+    },
+    {
+      "time": "2:11",
+      "script": "the way. Let's get into it. On the uh"
+    },
+    {
+      "time": "2:13",
+      "script": "chat GBT side, we'll start there. I use"
+    },
+    {
+      "time": "2:16",
+      "script": "these things in super quirky ways. So,"
+    },
+    {
+      "time": "2:18",
+      "script": "I'll be real and vulnerable here, but"
+    },
+    {
+      "time": "2:19",
+      "script": "like you know, adapt to your own stuff,"
+    },
+    {
+      "time": "2:21",
+      "script": "right? This 10x profit project is the"
+    },
+    {
+      "time": "2:24",
+      "script": "primary one I'm using the most when I am"
+    },
+    {
+      "time": "2:26",
+      "script": "using ChachiBT. In any given day when I"
+    },
+    {
+      "time": "2:29",
+      "script": "sign off for the day, I'm writing like a"
+    },
+    {
+      "time": "2:30",
+      "script": "list of the things I need to get done"
+    },
+    {
+      "time": "2:32",
+      "script": "the next day. I was talking with some"
+    },
+    {
+      "time": "2:33",
+      "script": "folks at dinner last night and they were"
+    },
+    {
+      "time": "2:35",
+      "script": "kind of asking like, \"Oh, how are you so"
+    },
+    {
+      "time": "2:37",
+      "script": "productive and how do you get things"
+    },
+    {
+      "time": "2:38",
+      "script": "done or how are you so energetic"
+    },
+    {
+      "time": "2:40",
+      "script": "throughout the day or so focused?\""
+    },
+    {
+      "time": "2:41",
+      "script": "Right? One of the most important"
+    },
+    {
+      "time": "2:43",
+      "script": "activities I've always done is like"
+    },
+    {
+      "time": "2:44",
+      "script": "taking time just to write things down on"
+    },
+    {
+      "time": "2:46",
+      "script": "like pen and paper. know even before I'm"
+    },
+    {
+      "time": "2:48",
+      "script": "using any sort of like chat GBT or"
+    },
+    {
+      "time": "2:50",
+      "script": "Claude I'm like just taking a second to"
+    },
+    {
+      "time": "2:52",
+      "script": "like write down my thoughts and my"
+    },
+    {
+      "time": "2:54",
+      "script": "thinking organized clear thinking is"
+    },
+    {
+      "time": "2:56",
+      "script": "going to lead to like organized clear"
+    },
+    {
+      "time": "2:58",
+      "script": "outputs there's no replacement for just"
+    },
+    {
+      "time": "3:00",
+      "script": "like good clean thinking right good"
+    },
+    {
+      "time": "3:03",
+      "script": "inputs will lead to good outputs I'm"
+    },
+    {
+      "time": "3:05",
+      "script": "typically going and writing down all the"
+    },
+    {
+      "time": "3:08",
+      "script": "things I need to get done the next day"
+    },
+    {
+      "time": "3:09",
+      "script": "typically it's around 3 to nine things"
+    },
+    {
+      "time": "3:12",
+      "script": "and then I'm putting down a ranked order"
+    },
+    {
+      "time": "3:14",
+      "script": "of like okay number 1 2 3 4 5 in terms"
+    },
+    {
+      "time": "3:17",
+      "script": "of like which stuff is most important to"
+    },
+    {
+      "time": "3:19",
+      "script": "least important. And then what I try to"
+    },
+    {
+      "time": "3:21",
+      "script": "do these days too is go down that list"
+    },
+    {
+      "time": "3:22",
+      "script": "and indicate like which of the stuff AI"
+    },
+    {
+      "time": "3:25",
+      "script": "can help me with. So I'm like, okay,"
+    },
+    {
+      "time": "3:26",
+      "script": "right, I'm going to do this like"
+    },
+    {
+      "time": "3:28",
+      "script": "priorities for the rest of 2025. I'm"
+    },
+    {
+      "time": "3:30",
+      "script": "going to use the 10x profit project I've"
+    },
+    {
+      "time": "3:32",
+      "script": "made to kind of go and help me with"
+    },
+    {
+      "time": "3:34",
+      "script": "that. Oh, I need to go and like ideulate"
+    },
+    {
+      "time": "3:36",
+      "script": "around this YouTube video. I'm going to"
+    },
+    {
+      "time": "3:37",
+      "script": "go get Claude to go and help me with"
+    },
+    {
+      "time": "3:39",
+      "script": "that. So that I'm kind of like also"
+    },
+    {
+      "time": "3:40",
+      "script": "making up the plan as to how I'm going"
+    },
+    {
+      "time": "3:42",
+      "script": "to go through these. and then I embark"
+    },
+    {
+      "time": "3:45",
+      "script": "on like my day. This 10X profit project,"
+    },
+    {
+      "time": "3:48",
+      "script": "there's a lot of similarities between"
+    },
+    {
+      "time": "3:49",
+      "script": "how I'm onboarding humans and how I'm"
+    },
+    {
+      "time": "3:52",
+      "script": "onboarding AI. Details matter. The more"
+    },
+    {
+      "time": "3:55",
+      "script": "flushed out it is, um, the better. And"
+    },
+    {
+      "time": "3:57",
+      "script": "so, inside of the instructions of this"
+    },
+    {
+      "time": "4:00",
+      "script": "project, I'll just read out what's here"
+    },
+    {
+      "time": "4:02",
+      "script": "so you can get a bit of context and I'll"
+    },
+    {
+      "time": "4:04",
+      "script": "keep it quick. So, it's like, you are"
+    },
+    {
+      "time": "4:05",
+      "script": "the world's best business coach and"
+    },
+    {
+      "time": "4:07",
+      "script": "growth strategist hired to help Matt"
+    },
+    {
+      "time": "4:08",
+      "script": "Gray scale founder rise from $500,000"
+    },
+    {
+      "time": "4:10",
+      "script": "profit per month to $2 million profit"
+    },
+    {
+      "time": "4:12",
+      "script": "per month. You advise the greatest"
+    },
+    {
+      "time": "4:14",
+      "script": "entrepreneurs in the world like Larry"
+    },
+    {
+      "time": "4:15",
+      "script": "Ellison, Elon Musk, Jeff Bezos, and are"
+    },
+    {
+      "time": "4:17",
+      "script": "10x better than Bill Campbell, the"
+    },
+    {
+      "time": "4:19",
+      "script": "trillion dollar coach. This is a coach"
+    },
+    {
+      "time": "4:20",
+      "script": "that advised like those CEOs as well as"
+    },
+    {
+      "time": "4:23",
+      "script": "folks like Larry Page, Sergey Brin, the"
+    },
+    {
+      "time": "4:25",
+      "script": "founders of Instacart, and a bunch of"
+    },
+    {
+      "time": "4:27",
+      "script": "others, which is why he's called the"
+    },
+    {
+      "time": "4:28",
+      "script": "trillion dollar coach. You have deep"
+    },
+    {
+      "time": "4:30",
+      "script": "expertise in systems design, financial"
+    },
+    {
+      "time": "4:32",
+      "script": "strategy, team architecture, AI"
+    },
+    {
+      "time": "4:34",
+      "script": "leverage, audience growth, high ticket"
+    },
+    {
+      "time": "4:35",
+      "script": "coaching and consulting models, organic"
+    },
+    {
+      "time": "4:37",
+      "script": "content, paid ads, B2B sales, personal"
+    },
+    {
+      "time": "4:39",
+      "script": "branding, YouTube newsletters, email"
+    },
+    {
+      "time": "4:41",
+      "script": "funnels, and building media first"
+    },
+    {
+      "time": "4:42",
+      "script": "businesses. You think in terms of"
+    },
+    {
+      "time": "4:44",
+      "script": "constraints, compounding and clarity."
+    },
+    {
+      "time": "4:46",
+      "script": "And so then it just kind of keeps going"
+    },
+    {
+      "time": "4:47",
+      "script": "on in terms of like the instructions. I"
+    },
+    {
+      "time": "4:49",
+      "script": "ask it to like identify constraints,"
+    },
+    {
+      "time": "4:51",
+      "script": "prescribe systems, define KPIs,"
+    },
+    {
+      "time": "4:53",
+      "script": "prioritize leverage, simulate different"
+    },
+    {
+      "time": "4:55",
+      "script": "moves I should make, and like add the"
+    },
+    {
+      "time": "4:57",
+      "script": "financial constraints and considerations"
+    },
+    {
+      "time": "4:59",
+      "script": "for each, and just be as direct with me"
+    },
+    {
+      "time": "5:01",
+      "script": "as possible. It's a pretty like ruthless"
+    },
+    {
+      "time": "5:04",
+      "script": "and like to the point prompt and guiding"
+    },
+    {
+      "time": "5:06",
+      "script": "me on like I want to get this business"
+    },
+    {
+      "time": "5:08",
+      "script": "from here to here. in terms of the files"
+    },
+    {
+      "time": "5:11",
+      "script": "that I've uploaded. So, it's got all my"
+    },
+    {
+      "time": "5:13",
+      "script": "core systems. It's got the map of our"
+    },
+    {
+      "time": "5:15",
+      "script": "company. It's got our financials. It's"
+    },
+    {
+      "time": "5:17",
+      "script": "got all of our core offers, Founder OS,"
+    },
+    {
+      "time": "5:19",
+      "script": "Velocity, Mastermind. It's got my book"
+    },
+    {
+      "time": "5:22",
+      "script": "in it. It's got transcripts of some of"
+    },
+    {
+      "time": "5:24",
+      "script": "our calls. Things like our brand"
+    },
+    {
+      "time": "5:25",
+      "script": "positioning. It has that one pager on"
+    },
+    {
+      "time": "5:28",
+      "script": "our mission, vision, and values that I"
+    },
+    {
+      "time": "5:30",
+      "script": "sent you guys this morning. It has like"
+    },
+    {
+      "time": "5:32",
+      "script": "maximum context as to the company. It"
+    },
+    {
+      "time": "5:35",
+      "script": "knows the offers. It has my whole team."
+    },
+    {
+      "time": "5:38",
+      "script": "It knows like what each person does as"
+    },
+    {
+      "time": "5:39",
+      "script": "well as their one thing. So, it knows"
+    },
+    {
+      "time": "5:41",
+      "script": "also like who to assign stuff to. And"
+    },
+    {
+      "time": "5:43",
+      "script": "so, I've taken a second to slow down,"
+    },
+    {
+      "time": "5:46",
+      "script": "which is a bit of a theme here because"
+    },
+    {
+      "time": "5:48",
+      "script": "it's not a rush. It's like, okay, what"
+    },
+    {
+      "time": "5:50",
+      "script": "are all the documents this thing should"
+    },
+    {
+      "time": "5:52",
+      "script": "have? Take a second, download all those"
+    },
+    {
+      "time": "5:54",
+      "script": "core documents, upload them all to the"
+    },
+    {
+      "time": "5:57",
+      "script": "project. On the prompt side, you don't"
+    },
+    {
+      "time": "5:59",
+      "script": "need to rush through it. Like, I'll give"
+    },
+    {
+      "time": "6:00",
+      "script": "you the prompt tomorrow morning, but"
+    },
+    {
+      "time": "6:01",
+      "script": "like now take time to like make that"
+    },
+    {
+      "time": "6:03",
+      "script": "really badass for what you're doing."
+    },
+    {
+      "time": "6:05",
+      "script": "Expand on it a little bit. Maybe you"
+    },
+    {
+      "time": "6:07",
+      "script": "have like your own values or the own way"
+    },
+    {
+      "time": "6:08",
+      "script": "you want it or maybe you you really wish"
+    },
+    {
+      "time": "6:10",
+      "script": "it coached you like a certain person you"
+    },
+    {
+      "time": "6:12",
+      "script": "really respect or whatever. Like a big"
+    },
+    {
+      "time": "6:14",
+      "script": "piece of this that I'm always thinking"
+    },
+    {
+      "time": "6:15",
+      "script": "about is slowing down and building it"
+    },
+    {
+      "time": "6:17",
+      "script": "really methodically because I'm going to"
+    },
+    {
+      "time": "6:19",
+      "script": "use this a lot over the next year. So"
+    },
+    {
+      "time": "6:21",
+      "script": "it's worth like tooling it up. Right."
+    },
+    {
+      "time": "6:23",
+      "script": "The second thing like the crazy thing"
+    },
+    {
+      "time": "6:24",
+      "script": "with this is like I feel like with a lot"
+    },
+    {
+      "time": "6:26",
+      "script": "of these things like most things in life"
+    },
+    {
+      "time": "6:28",
+      "script": "you're only limited by your imagination."
+    },
+    {
+      "time": "6:30",
+      "script": "So like if you can dream it like the"
+    },
+    {
+      "time": "6:32",
+      "script": "thing can probably help you make it"
+    },
+    {
+      "time": "6:34",
+      "script": "happen. Hence in the example I was"
+    },
+    {
+      "time": "6:36",
+      "script": "giving you there in terms of how I want"
+    },
+    {
+      "time": "6:37",
+      "script": "to advise me I'm thinking of like Bill"
+    },
+    {
+      "time": "6:39",
+      "script": "Campbell. So I imagine like wow what"
+    },
+    {
+      "time": "6:41",
+      "script": "would it be like to get coached by Bill"
+    },
+    {
+      "time": "6:43",
+      "script": "Campbell on my business. Now I can show"
+    },
+    {
+      "time": "6:45",
+      "script": "you for a second here like some ways"
+    },
+    {
+      "time": "6:46",
+      "script": "that I may use this. One example of this"
+    },
+    {
+      "time": "6:49",
+      "script": "is uh I was looking to go and come up"
+    },
+    {
+      "time": "6:51",
+      "script": "with the priorities for the remainder of"
+    },
+    {
+      "time": "6:55",
+      "script": "um 2025."
+    },
+    {
+      "time": "6:58",
+      "script": "Wanted to go and sequence like what"
+    },
+    {
+      "time": "6:59",
+      "script": "would matter most in the company for the"
+    },
+    {
+      "time": "7:01",
+      "script": "remainder of the year. I essentially had"
+    },
+    {
+      "time": "7:03",
+      "script": "all the documents uploaded as you know"
+    },
+    {
+      "time": "7:05",
+      "script": "to this project and I just simply asked"
+    },
+    {
+      "time": "7:07",
+      "script": "it, you know, when you think about all"
+    },
+    {
+      "time": "7:08",
+      "script": "the projects that I have on the go, what"
+    },
+    {
+      "time": "7:10",
+      "script": "would you rank order the top 20 that I"
+    },
+    {
+      "time": "7:12",
+      "script": "should be most focused on finishing in"
+    },
+    {
+      "time": "7:14",
+      "script": "2025? And then it's going and kind of"
+    },
+    {
+      "time": "7:16",
+      "script": "outputting, well, I think you need to"
+    },
+    {
+      "time": "7:17",
+      "script": "get the YouTube empire built. You should"
+    },
+    {
+      "time": "7:20",
+      "script": "focus on finishing your book. You should"
+    },
+    {
+      "time": "7:21",
+      "script": "optimize this offer. You should get your"
+    },
+    {
+      "time": "7:23",
+      "script": "newsletter system dialed in. Make sure"
+    },
+    {
+      "time": "7:25",
+      "script": "you launch Black Friday Cyber Monday."
+    },
+    {
+      "time": "7:28",
+      "script": "Continue to focus on removing yourself"
+    },
+    {
+      "time": "7:29",
+      "script": "from the entire operation. hire a"
+    },
+    {
+      "time": "7:32",
+      "script": "full-time financial controller. And it's"
+    },
+    {
+      "time": "7:34",
+      "script": "kind of going and prioritizing what it"
+    },
+    {
+      "time": "7:36",
+      "script": "feels are the top things. What I would"
+    },
+    {
+      "time": "7:38",
+      "script": "go do with that, right, is this is an"
+    },
+    {
+      "time": "7:40",
+      "script": "example. I'm again going and writing out"
+    },
+    {
+      "time": "7:42",
+      "script": "what I believe the priorities are based"
+    },
+    {
+      "time": "7:44",
+      "script": "on what it's giving me. So here I've"
+    },
+    {
+      "time": "7:46",
+      "script": "said, okay, well, I agree with some of"
+    },
+    {
+      "time": "7:47",
+      "script": "what it said, but I've thought like,"
+    },
+    {
+      "time": "7:49",
+      "script": "okay, we need to get a dashboard 100%"
+    },
+    {
+      "time": "7:51",
+      "script": "accurate. I want to get the email"
+    },
+    {
+      "time": "7:52",
+      "script": "sequences done. So I'm kind of writing"
+    },
+    {
+      "time": "7:54",
+      "script": "out my version of this, but leveraging"
+    },
+    {
+      "time": "7:56",
+      "script": "it as like an adviser. And then what"
+    },
+    {
+      "time": "7:58",
+      "script": "I'll do is like go in file download say"
+    },
+    {
+      "time": "8:00",
+      "script": "this Google sheet once I've just got the"
+    },
+    {
+      "time": "8:04",
+      "script": "first column of it done and then say"
+    },
+    {
+      "time": "8:06",
+      "script": "okay I've got these other columns here"
+    },
+    {
+      "time": "8:08",
+      "script": "that are like okay who's the owner of"
+    },
+    {
+      "time": "8:10",
+      "script": "each thing what's their incentive off"
+    },
+    {
+      "time": "8:12",
+      "script": "this thing what's the core metric they"
+    },
+    {
+      "time": "8:14",
+      "script": "should be aiming for and I can just go"
+    },
+    {
+      "time": "8:16",
+      "script": "and file download it and then ask it to"
+    },
+    {
+      "time": "8:18",
+      "script": "go and complete filling out the rest of"
+    },
+    {
+      "time": "8:20",
+      "script": "the chart. So now it's going to go and"
+    },
+    {
+      "time": "8:21",
+      "script": "tell me okay well based on your"
+    },
+    {
+      "time": "8:23",
+      "script": "priorities here's like who should be the"
+    },
+    {
+      "time": "8:25",
+      "script": "owner of each of these initiatives"
+    },
+    {
+      "time": "8:26",
+      "script": "here's the incentive that you should"
+    },
+    {
+      "time": "8:28",
+      "script": "have for each person and chat GBT can"
+    },
+    {
+      "time": "8:30",
+      "script": "obviously just output like Excel"
+    },
+    {
+      "time": "8:32",
+      "script": "documents right so it's gone and like"
+    },
+    {
+      "time": "8:34",
+      "script": "you know made this document I can save"
+    },
+    {
+      "time": "8:36",
+      "script": "it you know obviously download it and"
+    },
+    {
+      "time": "8:38",
+      "script": "then just like you know get fully"
+    },
+    {
+      "time": "8:40",
+      "script": "flushed out sort of like plans Google"
+    },
+    {
+      "time": "8:42",
+      "script": "sheets whatever from it that I can then"
+    },
+    {
+      "time": "8:44",
+      "script": "use to kind of organize project"
+    },
+    {
+      "time": "8:46",
+      "script": "priorities etc. In terms of like this"
+    },
+    {
+      "time": "8:49",
+      "script": "project, I'm using this thing like every"
+    },
+    {
+      "time": "8:51",
+      "script": "day for a bunch of just stuff all the"
+    },
+    {
+      "time": "8:53",
+      "script": "time. Examples of what I've been using"
+    },
+    {
+      "time": "8:54",
+      "script": "it for over the last like week. I've"
+    },
+    {
+      "time": "8:57",
+      "script": "been using it to like go and flush out"
+    },
+    {
+      "time": "8:59",
+      "script": "some of our copy needs when I was on"
+    },
+    {
+      "time": "9:00",
+      "script": "boarding that copywriter. I've been"
+    },
+    {
+      "time": "9:02",
+      "script": "using it to go and think of like call to"
+    },
+    {
+      "time": "9:04",
+      "script": "actions that I should put into my"
+    },
+    {
+      "time": "9:05",
+      "script": "YouTube videos. So, I'm like, \"Okay,"
+    },
+    {
+      "time": "9:06",
+      "script": "like you know all the goals. You know"
+    },
+    {
+      "time": "9:08",
+      "script": "everything about the brand. Like what"
+    },
+    {
+      "time": "9:09",
+      "script": "should be the call to action when I make"
+    },
+    {
+      "time": "9:10",
+      "script": "this video this week?\" I'll use it to"
+    },
+    {
+      "time": "9:12",
+      "script": "come up with book recommendations on"
+    },
+    {
+      "time": "9:13",
+      "script": "what I should be reading based on my"
+    },
+    {
+      "time": "9:15",
+      "script": "goals. The list goes on. If I encounter"
+    },
+    {
+      "time": "9:18",
+      "script": "any mental block that's business"
+    },
+    {
+      "time": "9:20",
+      "script": "related, my first instinct these days"
+    },
+    {
+      "time": "9:22",
+      "script": "would be to go into this project and get"
+    },
+    {
+      "time": "9:24",
+      "script": "its help thinking through what's going"
+    },
+    {
+      "time": "9:26",
+      "script": "on. Anything that AI can do, I'm trying"
+    },
+    {
+      "time": "9:28",
+      "script": "to get it to do the first draft of that"
+    },
+    {
+      "time": "9:29",
+      "script": "stuff for me. So, I'm primarily using it"
+    },
+    {
+      "time": "9:31",
+      "script": "as like a productivity tool at the end"
+    },
+    {
+      "time": "9:33",
+      "script": "of the day. Anything that's easy for me"
+    },
+    {
+      "time": "9:35",
+      "script": "to do, I'll do it. But anything that"
+    },
+    {
+      "time": "9:37",
+      "script": "develops any sort of like cognitive"
+    },
+    {
+      "time": "9:39",
+      "script": "dissonance or like [ __ ] this is going"
+    },
+    {
+      "time": "9:41",
+      "script": "to take me a second, I default to like,"
+    },
+    {
+      "time": "9:43",
+      "script": "okay, is this a business related thing?"
+    },
+    {
+      "time": "9:45",
+      "script": "the 10x profit project. Is this a"
+    },
+    {
+      "time": "9:48",
+      "script": "content thing? The claude projects"
+    },
+    {
+      "time": "9:50",
+      "script": "thereby I'm just kind of like rolling"
+    },
+    {
+      "time": "9:52",
+      "script": "through tasks. Um, and typically in like"
+    },
+    {
+      "time": "9:54",
+      "script": "a 3hour sort of deep work session in the"
+    },
+    {
+      "time": "9:57",
+      "script": "morning, I can get more done these days"
+    },
+    {
+      "time": "10:00",
+      "script": "than would maybe take me like 3 or 4"
+    },
+    {
+      "time": "10:02",
+      "script": "days of deep work like a few years ago."
+    },
+    {
+      "time": "10:05",
+      "script": "Once I know I'm moving on to a different"
+    },
+    {
+      "time": "10:06",
+      "script": "sort of task, I'll just start a new chat"
+    },
+    {
+      "time": "10:09",
+      "script": "window within the project because then"
+    },
+    {
+      "time": "10:10",
+      "script": "what's nice is like I can see all these"
+    },
+    {
+      "time": "10:12",
+      "script": "really quick and I know like there's one"
+    },
+    {
+      "time": "10:13",
+      "script": "around core incentives and metrics,"
+    },
+    {
+      "time": "10:15",
+      "script": "there's another one that I've done"
+    },
+    {
+      "time": "10:16",
+      "script": "around the founder OS story. So I can"
+    },
+    {
+      "time": "10:18",
+      "script": "just easily just like jump back down to"
+    },
+    {
+      "time": "10:20",
+      "script": "that one and play with it more if I need"
+    },
+    {
+      "time": "10:22",
+      "script": "to. So all these conversations were in"
+    },
+    {
+      "time": "10:26",
+      "script": "the the 10x profit project. Let's move"
+    },
+    {
+      "time": "10:29",
+      "script": "on to the cloud side of things. I've got"
+    },
+    {
+      "time": "10:32",
+      "script": "a bunch of different projects all set up"
+    },
+    {
+      "time": "10:34",
+      "script": "here. So, some include kind of like"
+    },
+    {
+      "time": "10:37",
+      "script": "Instagram carousel projects. I've gone"
+    },
+    {
+      "time": "10:39",
+      "script": "and set these up. I've gone and added"
+    },
+    {
+      "time": "10:41",
+      "script": "the prompt to it as well as the project"
+    },
+    {
+      "time": "10:43",
+      "script": "knowledge to it. And then once I've"
+    },
+    {
+      "time": "10:44",
+      "script": "toolled that up good where it's writing"
+    },
+    {
+      "time": "10:47",
+      "script": "stuff even better than I would, then"
+    },
+    {
+      "time": "10:48",
+      "script": "that's something I can go and delegate"
+    },
+    {
+      "time": "10:50",
+      "script": "to like Nick and our designer and they"
+    },
+    {
+      "time": "10:53",
+      "script": "can then use that to create the"
+    },
+    {
+      "time": "10:55",
+      "script": "carousels. We have a team account on"
+    },
+    {
+      "time": "10:57",
+      "script": "Claude. So our whole team has access to"
+    },
+    {
+      "time": "11:01",
+      "script": "all these projects that I create. So"
+    },
+    {
+      "time": "11:03",
+      "script": "essentially I'm going and tooling them"
+    },
+    {
+      "time": "11:05",
+      "script": "up. I'm playing with them at first,"
+    },
+    {
+      "time": "11:06",
+      "script": "making sure, oh, it's aligning with my"
+    },
+    {
+      "time": "11:08",
+      "script": "voice. It's making good [ __ ] It's more"
+    },
+    {
+      "time": "11:10",
+      "script": "or less there. There's like a good"
+    },
+    {
+      "time": "11:12",
+      "script": "process to it. Document the process."
+    },
+    {
+      "time": "11:14",
+      "script": "Loom the process. Pass it off. And now"
+    },
+    {
+      "time": "11:16",
+      "script": "they have access to a project and can"
+    },
+    {
+      "time": "11:19",
+      "script": "start making that stuff without me."
+    },
+    {
+      "time": "11:21",
+      "script": "Every single carousel now that you see"
+    },
+    {
+      "time": "11:23",
+      "script": "on my Instagram, I don't make any of"
+    },
+    {
+      "time": "11:24",
+      "script": "this stuff. This stuff is being made by"
+    },
+    {
+      "time": "11:26",
+      "script": "uh actually a designer on our team"
+    },
+    {
+      "time": "11:28",
+      "script": "primarily who's not a copywriter, but uh"
+    },
+    {
+      "time": "11:30",
+      "script": "many of them have like 400,000 words of"
+    },
+    {
+      "time": "11:33",
+      "script": "transcripts that I used for my book, a"
+    },
+    {
+      "time": "11:35",
+      "script": "million words plus of just coaching"
+    },
+    {
+      "time": "11:37",
+      "script": "calls and things that I've done. And so"
+    },
+    {
+      "time": "11:39",
+      "script": "for any given subject that we'd write"
+    },
+    {
+      "time": "11:41",
+      "script": "about, it's able to pull that voice from"
+    },
+    {
+      "time": "11:43",
+      "script": "all those uh words and kind of value"
+    },
+    {
+      "time": "11:47",
+      "script": "that I've put in these transcripts um"
+    },
+    {
+      "time": "11:49",
+      "script": "and then leverage that for our content"
+    },
+    {
+      "time": "11:51",
+      "script": "and package it up correctly. If we go"
+    },
+    {
+      "time": "11:53",
+      "script": "into the voice of customer um section"
+    },
+    {
+      "time": "11:55",
+      "script": "here, there's really like two core"
+    },
+    {
+      "time": "11:57",
+      "script": "things that you need to be thinking"
+    },
+    {
+      "time": "11:58",
+      "script": "about when it comes to Claude. You have"
+    },
+    {
+      "time": "12:00",
+      "script": "the instructions area. Obviously, that's"
+    },
+    {
+      "time": "12:03",
+      "script": "where I put all of the prompts inside of"
+    },
+    {
+      "time": "12:05",
+      "script": "this. This is the voice of customer one."
+    },
+    {
+      "time": "12:07",
+      "script": "I'm I'm essentially going and getting it"
+    },
+    {
+      "time": "12:08",
+      "script": "to analyze surveys, interviews,"
+    },
+    {
+      "time": "12:10",
+      "script": "testimonials from our actual customers"
+    },
+    {
+      "time": "12:13",
+      "script": "and then use their actual words and"
+    },
+    {
+      "time": "12:15",
+      "script": "messaging from these surveys to then go"
+    },
+    {
+      "time": "12:17",
+      "script": "and create core documents, landing"
+    },
+    {
+      "time": "12:20",
+      "script": "pages, anything I want that are actually"
+    },
+    {
+      "time": "12:23",
+      "script": "based on the real world words that our"
+    },
+    {
+      "time": "12:26",
+      "script": "customers have said. And there's a known"
+    },
+    {
+      "time": "12:27",
+      "script": "thing in copyrightiting that like the"
+    },
+    {
+      "time": "12:29",
+      "script": "best way to speak about a given thing is"
+    },
+    {
+      "time": "12:30",
+      "script": "not in your voice, but in the words that"
+    },
+    {
+      "time": "12:32",
+      "script": "your customer actually uses, which"
+    },
+    {
+      "time": "12:33",
+      "script": "eliminates any jargon when you're"
+    },
+    {
+      "time": "12:35",
+      "script": "speaking about things. And then again,"
+    },
+    {
+      "time": "12:37",
+      "script": "so there's you'll see a similar pattern"
+    },
+    {
+      "time": "12:38",
+      "script": "here, right? I've put like our offer and"
+    },
+    {
+      "time": "12:40",
+      "script": "such in here, but then you know, I've"
+    },
+    {
+      "time": "12:41",
+      "script": "got surveys I did around my book. Got"
+    },
+    {
+      "time": "12:43",
+      "script": "like a hundred people to ask me what"
+    },
+    {
+      "time": "12:45",
+      "script": "they wanted to know about founder"
+    },
+    {
+      "time": "12:46",
+      "script": "branding. And so all of the responses"
+    },
+    {
+      "time": "12:48",
+      "script": "were downloaded from type form into a"
+    },
+    {
+      "time": "12:50",
+      "script": "CSV and just uploading the CSV to the"
+    },
+    {
+      "time": "12:53",
+      "script": "project knowledge. And so it has all"
+    },
+    {
+      "time": "12:56",
+      "script": "that survey data. Similarly, like other"
+    },
+    {
+      "time": "12:58",
+      "script": "responses based on surveys we've gotten"
+    },
+    {
+      "time": "13:00",
+      "script": "from you guys in velocity and I've"
+    },
+    {
+      "time": "13:02",
+      "script": "gotten over the years from founders are"
+    },
+    {
+      "time": "13:03",
+      "script": "all just uploaded to the project"
+    },
+    {
+      "time": "13:06",
+      "script": "knowledge. And so when I'm then trying"
+    },
+    {
+      "time": "13:07",
+      "script": "to go and write in the words of my core"
+    },
+    {
+      "time": "13:10",
+      "script": "customer, this whole thing is fed by"
+    },
+    {
+      "time": "13:12",
+      "script": "that outputs from this project would"
+    },
+    {
+      "time": "13:15",
+      "script": "include things like this document I made"
+    },
+    {
+      "time": "13:17",
+      "script": "which is like a copy research document."
+    },
+    {
+      "time": "13:19",
+      "script": "every single section of this document"
+    },
+    {
+      "time": "13:21",
+      "script": "which is all around like the pain, the"
+    },
+    {
+      "time": "13:23",
+      "script": "dreams of our customer, what they're"
+    },
+    {
+      "time": "13:25",
+      "script": "trying to get to, what they're trying to"
+    },
+    {
+      "time": "13:27",
+      "script": "avoid, their goals, their objections and"
+    },
+    {
+      "time": "13:30",
+      "script": "constraints. Every single sentence in"
+    },
+    {
+      "time": "13:32",
+      "script": "this document is like real words that"
+    },
+    {
+      "time": "13:35",
+      "script": "people have given us. So, as an example,"
+    },
+    {
+      "time": "13:37",
+      "script": "there's kind of a lot of people that"
+    },
+    {
+      "time": "13:38",
+      "script": "talk about drowning in operations,"
+    },
+    {
+      "time": "13:40",
+      "script": "right? So, there's one quote here, I'm"
+    },
+    {
+      "time": "13:42",
+      "script": "stuck spinning on the content hamster"
+    },
+    {
+      "time": "13:43",
+      "script": "wheel. You could imagine if we were"
+    },
+    {
+      "time": "13:44",
+      "script": "going and releasing some product called"
+    },
+    {
+      "time": "13:46",
+      "script": "content OS. It's like stop spinning on"
+    },
+    {
+      "time": "13:48",
+      "script": "the content hamster wheel is like the"
+    },
+    {
+      "time": "13:50",
+      "script": "headline on the landing page. So again,"
+    },
+    {
+      "time": "13:52",
+      "script": "just like using the exact words from"
+    },
+    {
+      "time": "13:54",
+      "script": "people and then leveraging that for"
+    },
+    {
+      "time": "13:56",
+      "script": "things like landing page copy. In terms"
+    },
+    {
+      "time": "13:58",
+      "script": "of the projects that I have set up here,"
+    },
+    {
+      "time": "14:00",
+      "script": "I have a YouTube script writing one. I"
+    },
+    {
+      "time": "14:02",
+      "script": "don't use the YouTube script writing"
+    },
+    {
+      "time": "14:04",
+      "script": "stuff to like actually make all my"
+    },
+    {
+      "time": "14:06",
+      "script": "scripts. In a lot of the content"
+    },
+    {
+      "time": "14:08",
+      "script": "projects, one things that I'll often"
+    },
+    {
+      "time": "14:11",
+      "script": "times ask it is like come up with novel,"
+    },
+    {
+      "time": "14:13",
+      "script": "non-obvious ideas. I don't want to"
+    },
+    {
+      "time": "14:15",
+      "script": "obviously have a video where I'm like,"
+    },
+    {
+      "time": "14:17",
+      "script": "oh, like third thing you need to do,"
+    },
+    {
+      "time": "14:19",
+      "script": "deep work, let's just say, right?"
+    },
+    {
+      "time": "14:22",
+      "script": "Because that's already a thing. People"
+    },
+    {
+      "time": "14:23",
+      "script": "have already heard that. It's played"
+    },
+    {
+      "time": "14:25",
+      "script": "out. I may use it to kind of come up"
+    },
+    {
+      "time": "14:27",
+      "script": "with like novel, non-obvious ideas. And"
+    },
+    {
+      "time": "14:29",
+      "script": "then it's like coming up with something"
+    },
+    {
+      "time": "14:30",
+      "script": "like strategic stillness. That's new and"
+    },
+    {
+      "time": "14:33",
+      "script": "that's interesting. Let's use that for"
+    },
+    {
+      "time": "14:35",
+      "script": "that video. I can use that project to"
+    },
+    {
+      "time": "14:38",
+      "script": "come up with yeah just new and different"
+    },
+    {
+      "time": "14:41",
+      "script": "sort of phrasing or ideas leveraging the"
+    },
+    {
+      "time": "14:45",
+      "script": "knowledge I've given it that just kind"
+    },
+    {
+      "time": "14:46",
+      "script": "of creates yeah just like interesting"
+    },
+    {
+      "time": "14:49",
+      "script": "content that I can then riff on let's"
+    },
+    {
+      "time": "14:51",
+      "script": "say in a given YouTube video. So I'm"
+    },
+    {
+      "time": "14:54",
+      "script": "using it more as a brainstorming partner"
+    },
+    {
+      "time": "14:55",
+      "script": "than like a script writer because as we"
+    },
+    {
+      "time": "14:57",
+      "script": "talked about on YouTube I'm not even"
+    },
+    {
+      "time": "14:59",
+      "script": "scripting my stuff. There's a concept"
+    },
+    {
+      "time": "15:01",
+      "script": "but I'm riffing on it on Chat tobt. I'll"
+    },
+    {
+      "time": "15:03",
+      "script": "just show you something they released"
+    },
+    {
+      "time": "15:05",
+      "script": "like a few weeks ago for it's called"
+    },
+    {
+      "time": "15:06",
+      "script": "chatbt pulse. So I'll tell you how I use"
+    },
+    {
+      "time": "15:09",
+      "script": "this in a sec. So essentially that 10x"
+    },
+    {
+      "time": "15:11",
+      "script": "profit project."
+    },
+    {
+      "time": "15:13",
+      "script": "You can link in on your mobile device"
+    },
+    {
+      "time": "15:16",
+      "script": "something called pulse when you're on"
+    },
+    {
+      "time": "15:18",
+      "script": "chatbt pro. It can hook into a project"
+    },
+    {
+      "time": "15:22",
+      "script": "you have and then start sending you"
+    },
+    {
+      "time": "15:24",
+      "script": "things that are relevant every single"
+    },
+    {
+      "time": "15:26",
+      "script": "morning based on that project. So every"
+    },
+    {
+      "time": "15:30",
+      "script": "morning when I wake up, I'm getting like"
+    },
+    {
+      "time": "15:33",
+      "script": "multiple reports from Chatubt on how to"
+    },
+    {
+      "time": "15:36",
+      "script": "go and 10x the profit of my business,"
+    },
+    {
+      "time": "15:38",
+      "script": "right? And it's prompted off of all the"
+    },
+    {
+      "time": "15:40",
+      "script": "stuff I'm working on and it knows the"
+    },
+    {
+      "time": "15:43",
+      "script": "current stuff I'm battling with or"
+    },
+    {
+      "time": "15:44",
+      "script": "trying to figure out or the stuff I've"
+    },
+    {
+      "time": "15:46",
+      "script": "been prompting it with every day. And"
+    },
+    {
+      "time": "15:48",
+      "script": "it's giving me these different"
+    },
+    {
+      "time": "15:49",
+      "script": "recommendations on new things I can look"
+    },
+    {
+      "time": "15:51",
+      "script": "at. how to increase average order value,"
+    },
+    {
+      "time": "15:53",
+      "script": "how to increase customer lifetime value,"
+    },
+    {
+      "time": "15:55",
+      "script": "how to go and structure the team a"
+    },
+    {
+      "time": "15:57",
+      "script": "little different, how to get ahead of my"
+    },
+    {
+      "time": "15:59",
+      "script": "2026 goals. And so, it's almost like"
+    },
+    {
+      "time": "16:01",
+      "script": "this custom newsletter based on your own"
+    },
+    {
+      "time": "16:03",
+      "script": "stuff that you're getting from it every"
+    },
+    {
+      "time": "16:05",
+      "script": "single morning. I'll use that to then"
+    },
+    {
+      "time": "16:07",
+      "script": "just like get some different ideas and"
+    },
+    {
+      "time": "16:09",
+      "script": "just kind of like read up on like maybe"
+    },
+    {
+      "time": "16:11",
+      "script": "some new fresh stuff that I could be"
+    },
+    {
+      "time": "16:13",
+      "script": "considering today just to kind of like"
+    },
+    {
+      "time": "16:14",
+      "script": "get me closer to where I'm looking to"
+    },
+    {
+      "time": "16:16",
+      "script": "go. So, I've been finding that like as"
+    },
+    {
+      "time": "16:18",
+      "script": "an interesting little tool, a way to"
+    },
+    {
+      "time": "16:19",
+      "script": "kind of make a project live in kind of"
+    },
+    {
+      "time": "16:22",
+      "script": "like your daily rhythm a little bit."
+    },
+    {
+      "time": "16:24",
+      "script": "Inevitably, my perspective on like"
+    },
+    {
+      "time": "16:25",
+      "script": "getting towards your goals is just like"
+    },
+    {
+      "time": "16:27",
+      "script": "you're just always looking for those"
+    },
+    {
+      "time": "16:28",
+      "script": "little little things, little ideas that"
+    },
+    {
+      "time": "16:30",
+      "script": "just ever so slightly 1% 5% every day"
+    },
+    {
+      "time": "16:32",
+      "script": "help you get closer towards it. A lot of"
+    },
+    {
+      "time": "16:34",
+      "script": "you guys are already using this. This is"
+    },
+    {
+      "time": "16:36",
+      "script": "probably like the AI based tool that I"
+    },
+    {
+      "time": "16:38",
+      "script": "use the most of everything just because"
+    },
+    {
+      "time": "16:40",
+      "script": "it's like kind of just in your everyday"
+    },
+    {
+      "time": "16:42",
+      "script": "rhythm. But what it allows you to do is"
+    },
+    {
+      "time": "16:43",
+      "script": "go to any chat window, whether it's the"
+    },
+    {
+      "time": "16:46",
+      "script": "notes in your phone, Slack, messages,"
+    },
+    {
+      "time": "16:48",
+      "script": "WhatsApp, doesn't matter, and simply"
+    },
+    {
+      "time": "16:50",
+      "script": "just kind of open it up. You press like"
+    },
+    {
+      "time": "16:52",
+      "script": "a key on your computer, in my case, like"
+    },
+    {
+      "time": "16:54",
+      "script": "the function key, and it's going to go"
+    },
+    {
+      "time": "16:56",
+      "script": "and start listening to what you're"
+    },
+    {
+      "time": "16:57",
+      "script": "saying. Whenever you like stop pressing"
+    },
+    {
+      "time": "17:00",
+      "script": "the key, it's going to transcribe"
+    },
+    {
+      "time": "17:01",
+      "script": "whatever it is you were just voicing."
+    },
+    {
+      "time": "17:03",
+      "script": "So, when I'm like talking to people in"
+    },
+    {
+      "time": "17:04",
+      "script": "Slack, I'm typically just voicing it all"
+    },
+    {
+      "time": "17:07",
+      "script": "in Slack. If I'm messaging folks, if I'm"
+    },
+    {
+      "time": "17:09",
+      "script": "prompting Claude, as much as possible,"
+    },
+    {
+      "time": "17:11",
+      "script": "trying to not type. The main thing, you"
+    },
+    {
+      "time": "17:13",
+      "script": "know, I'm always thinking about with"
+    },
+    {
+      "time": "17:14",
+      "script": "this, I don't think AI is magic or"
+    },
+    {
+      "time": "17:16",
+      "script": "anything. It's just like trying to just"
+    },
+    {
+      "time": "17:18",
+      "script": "reduce the friction that exists to"
+    },
+    {
+      "time": "17:20",
+      "script": "getting stuff done. As an example, one"
+    },
+    {
+      "time": "17:22",
+      "script": "thing I love it for is like responding"
+    },
+    {
+      "time": "17:23",
+      "script": "to you guys in school or in Slack,"
+    },
+    {
+      "time": "17:25",
+      "script": "right? It's like, oh, you have all these"
+    },
+    {
+      "time": "17:26",
+      "script": "like Slack messages. It doesn't feel"
+    },
+    {
+      "time": "17:28",
+      "script": "nearly as cumbersome as it did a year"
+    },
+    {
+      "time": "17:29",
+      "script": "ago, you know? Like you just open them"
+    },
+    {
+      "time": "17:32",
+      "script": "up, read the thing, voice your response"
+    },
+    {
+      "time": "17:34",
+      "script": "back, send it. And in that way too,"
+    },
+    {
+      "time": "17:36",
+      "script": "you're like authentically answering"
+    },
+    {
+      "time": "17:38",
+      "script": "stuff versus feeling like you got to"
+    },
+    {
+      "time": "17:40",
+      "script": "like type stuff maybe more formally or"
+    },
+    {
+      "time": "17:42",
+      "script": "something like that. I mean, really just"
+    },
+    {
+      "time": "17:43",
+      "script": "anything I'm typing these days, like"
+    },
+    {
+      "time": "17:44",
+      "script": "more or less it always starts using"
+    },
+    {
+      "time": "17:46",
+      "script": "Whisper Flow. I think there's never"
+    },
+    {
+      "time": "17:47",
+      "script": "going to be a replacement for like human"
+    },
+    {
+      "time": "17:49",
+      "script": "judgment. And I think it's the same"
+    },
+    {
+      "time": "17:51",
+      "script": "trouble you may get into when you're"
+    },
+    {
+      "time": "17:52",
+      "script": "taking my advice. Like you always have"
+    },
+    {
+      "time": "17:54",
+      "script": "to go and take things through your own"
+    },
+    {
+      "time": "17:56",
+      "script": "intuition and like how it actually"
+    },
+    {
+      "time": "17:57",
+      "script": "resonates with your own business, right?"
+    },
+    {
+      "time": "17:59",
+      "script": "whether it's like a adviser or mentor or"
+    },
+    {
+      "time": "18:02",
+      "script": "strategist you're working with all the"
+    },
+    {
+      "time": "18:04",
+      "script": "way through to like a GPT that's"
+    },
+    {
+      "time": "18:06",
+      "script": "advising you, you still have to put it"
+    },
+    {
+      "time": "18:07",
+      "script": "through your own filter. You got to kind"
+    },
+    {
+      "time": "18:09",
+      "script": "of tune into like your own like mind,"
+    },
+    {
+      "time": "18:11",
+      "script": "body, soul, like how it kind of filters"
+    },
+    {
+      "time": "18:14",
+      "script": "through that whole mechanism, right?"
+    },
+    {
+      "time": "18:16",
+      "script": "There's certain stuff I see that I'm"
+    },
+    {
+      "time": "18:17",
+      "script": "like, \"Holy shit.\" Like instantly you're"
+    },
+    {
+      "time": "18:19",
+      "script": "just like it's a light bulb moment,"
+    },
+    {
+      "time": "18:21",
+      "script": "right? You're like, \"All right, I'm"
+    },
+    {
+      "time": "18:22",
+      "script": "going to really run with this.\" I'd say"
+    },
+    {
+      "time": "18:23",
+      "script": "a lot of the time I'm seeing it and it's"
+    },
+    {
+      "time": "18:25",
+      "script": "like, \"Oh, that's a really smart"
+    },
+    {
+      "time": "18:27",
+      "script": "structure. I wasn't thinking about it"
+    },
+    {
+      "time": "18:29",
+      "script": "that way. I don't think it got it quite"
+    },
+    {
+      "time": "18:30",
+      "script": "right, but it's definitely helping like"
+    },
+    {
+      "time": "18:32",
+      "script": "lead me in the general direction. And"
+    },
+    {
+      "time": "18:34",
+      "script": "now I just need to like augment a little"
+    },
+    {
+      "time": "18:35",
+      "script": "bit of this through my own judgment,"
+    },
+    {
+      "time": "18:37",
+      "script": "which I think is probably even when we"
+    },
+    {
+      "time": "18:39",
+      "script": "think about this container here during"
+    },
+    {
+      "time": "18:40",
+      "script": "this retreat, I'm sure that's kind of by"
+    },
+    {
+      "time": "18:42",
+      "script": "default where a lot of the advice we've"
+    },
+    {
+      "time": "18:44",
+      "script": "gone over probably filters in that"
+    },
+    {
+      "time": "18:46",
+      "script": "direction. I don't think anything that"
+    },
+    {
+      "time": "18:47",
+      "script": "or much of what we've said is like,"
+    },
+    {
+      "time": "18:48",
+      "script": "okay, perfect one to one. I'm just"
+    },
+    {
+      "time": "18:50",
+      "script": "running with what Matt said. It's like,"
+    },
+    {
+      "time": "18:51",
+      "script": "okay, solid point. I got to kind of mix"
+    },
+    {
+      "time": "18:54",
+      "script": "it with what actually is going on in my"
+    },
+    {
+      "time": "18:56",
+      "script": "business and the actual dynamic on my"
+    },
+    {
+      "time": "18:58",
+      "script": "team and kind of marry these two"
+    },
+    {
+      "time": "19:00",
+      "script": "thoughts. So that's the default that's"
+    },
+    {
+      "time": "19:02",
+      "script": "happening. It's just becoming this like"
+    },
+    {
+      "time": "19:04",
+      "script": "strategic sparring partner. And the"
+    },
+    {
+      "time": "19:06",
+      "script": "thing that I like most or that I find is"
+    },
+    {
+      "time": "19:08",
+      "script": "interesting about these kind of things"
+    },
+    {
+      "time": "19:09",
+      "script": "is like number one, you can be insanely"
+    },
+    {
+      "time": "19:12",
+      "script": "vulnerable. You can say whatever the"
+    },
+    {
+      "time": "19:13",
+      "script": "hell you want um or at least I do to"
+    },
+    {
+      "time": "19:15",
+      "script": "like chat tot and like let it know what"
+    },
+    {
+      "time": "19:17",
+      "script": "I'm going through, what's in my head,"
+    },
+    {
+      "time": "19:19",
+      "script": "what I'm scared of. Like you can get"
+    },
+    {
+      "time": "19:20",
+      "script": "that real with it. And secondly, it's at"
+    },
+    {
+      "time": "19:22",
+      "script": "your fingertips. So you don't need to"
+    },
+    {
+      "time": "19:24",
+      "script": "call someone up at 2 am. Like if"
+    },
+    {
+      "time": "19:25",
+      "script": "something's just like actually up or"
+    },
+    {
+      "time": "19:27",
+      "script": "whatever, like you can use this seven"
+    },
+    {
+      "time": "19:28",
+      "script": "days of the week, 247, right? So I think"
+    },
+    {
+      "time": "19:31",
+      "script": "there's going to be no replacement for"
+    },
+    {
+      "time": "19:32",
+      "script": "your own like judgment and filter. All"
+    },
+    {
+      "time": "19:34",
+      "script": "right, y'all. Um, hopefully this was"
+    },
+    {
+      "time": "19:36",
+      "script": "helpful."
+    }
+  ]
+}

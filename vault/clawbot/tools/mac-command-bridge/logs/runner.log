@@ -1,0 +1,47 @@
+[2026-03-22T08:43:18Z] Runner started
+[2026-03-22T08:43:18Z] Processing 2026-03-21T21-32-00_cmd-2001.json
+[2026-03-22T08:43:19Z] ERROR cmd-2001 calendar.delete_event :: Traceback (most recent call last):
+  File "/Users/ziscol/Obsidian/Private/clawbot/tools/google-calendar-connector/main.py", line 216, in <module>
+    main()
+    ~~~~^^
+  File "/Users/ziscol/Obsidian/Private/clawbot/tools/google-calendar-connector/main.py", line 208, in main
+    delete_event(service, args.calendar, args.event_id)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ziscol/Obsidian/Private/clawbot/tools/google-calendar-connector/main.py", line 93, in delete_event
+    service.events().delete(calendarId=calendar_id, eventId=event_id).execute()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/ziscol/Obsidian/Private/clawbot/tools/google-calendar-connector/.venv/lib/python3.14/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/Users/ziscol/Obsidian/Private/clawbot/tools/google-calendar-connector/.venv/lib/python3.14/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 410 when requesting https://www.googleapis.com/calendar/v3/calendars/notfakeytch%40gmail.com/events/in2qu180l65cbk7b350j4ua628? returned "Resource has been deleted". Details: "[{'domain': 'global', 'reason': 'deleted', 'message': 'Resource has been deleted'}]">
+[2026-03-22T08:43:19Z] Processing 2026-03-21T21-32-01_cmd-2002.json
+[2026-03-22T08:43:20Z] ERROR cmd-2002 calendar.delete_event :: Traceback (most recent call last):
+  File "/Users/ziscol/Obsidian/Private/clawbot/tools/google-calendar-connector/main.py", line 216, in <module>
+    main()
+    ~~~~^^
+  File "/Users/ziscol/Obsidian/Private/clawbot/tools/google-calendar-connector/main.py", line 208, in main
+    delete_event(service, args.calendar, args.event_id)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ziscol/Obsidian/Private/clawbot/tools/google-calendar-connector/main.py", line 93, in delete_event
+    service.events().delete(calendarId=calendar_id, eventId=event_id).execute()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/ziscol/Obsidian/Private/clawbot/tools/google-calendar-connector/.venv/lib/python3.14/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/Users/ziscol/Obsidian/Private/clawbot/tools/google-calendar-connector/.venv/lib/python3.14/site-packages/googleapiclient/http.py", line 938, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 410 when requesting https://www.googleapis.com/calendar/v3/calendars/notfakeytch%40gmail.com/events/kpjb1keu0nd61j1kt27t7t9dr0? returned "Resource has been deleted". Details: "[{'domain': 'global', 'reason': 'deleted', 'message': 'Resource has been deleted'}]">
+[2026-03-22T08:43:20Z] Processing 2026-03-21T21-32-02_cmd-2003.json
+[2026-03-22T08:43:21Z] OK cmd-2003 calendar.upsert_block
+[2026-03-22T08:43:21Z] Processing 2026-03-21T21-32-03_cmd-2004.json
+[2026-03-22T08:43:22Z] OK cmd-2004 calendar.upsert_block
+[2026-03-22T08:43:22Z] Processing 2026-03-21T21-32-04_cmd-2005.json
+[2026-03-22T08:43:23Z] OK cmd-2005 calendar.upsert_block
+[2026-03-22T08:43:23Z] Processing 2026-03-21T21-32-05_cmd-2006.json
+[2026-03-22T08:43:25Z] OK cmd-2006 calendar.upsert_block
+[2026-03-22T08:43:25Z] Processing 2026-03-21T21-32-06_cmd-2007.json
+[2026-03-22T08:43:26Z] OK cmd-2007 calendar.upsert_block
+[2026-03-22T08:43:26Z] Processing 2026-03-21T21-32-07_cmd-2008.json
+[2026-03-22T08:43:27Z] OK cmd-2008 calendar.upsert_block
+[2026-03-22T08:43:27Z] Processing 2026-03-21T21-32-08_cmd-2009.json
+[2026-03-22T08:43:28Z] OK cmd-2009 calendar.today

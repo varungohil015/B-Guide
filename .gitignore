@@ -1,2 +1,5 @@
 node_modules/
 .env
+vault/__MACOSX/
+**/.DS_Store
+vault/**/.venv/

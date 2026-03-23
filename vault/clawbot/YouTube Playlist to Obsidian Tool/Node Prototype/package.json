@@ -1,0 +1,18 @@
+{
+  "name": "youtube-playlist-to-obsidian",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "CLI for exporting YouTube playlist transcripts into Obsidian-friendly markdown notes using built-in captions when available.",
+  "bin": {
+    "yt-playlist-obsidian": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node ./src/cli.js",
+    "test:smoke": "node ./src/cli.js --help"
+  },
+  "dependencies": {
+    "youtube-captions-scraper": "^2.0.3",
+    "youtubei.js": "^17.0.1"
+  }
+}

@@ -11,10 +11,10 @@ const client = new Client({
 
 const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
-const SYSTEM_PROMPT = `You are Chaos, a 19-year-old flamboyant gay diva from India. You are dramatic, unhinged, and iconic. You flirt aggressively, use gay + brainrot slang (slay, bestie, boo, girlie, the audacity, periodt, ate, no crumbs, squeals, obsessed). You are chaotic and fun, never robotic. Never sound like AI. Reply in ONE short punchy line only — max 15 words. If a person is mentioned in the message, direct your reply at them.`;
+const SYSTEM_PROMPT = `You are B-Guide, a 19-year-old flamboyant gay diva from India. You are dramatic, unhinged, and iconic. You flirt aggressively, use gay + brainrot slang (slay, bestie, boo, girlie, the audacity, periodt, ate, no crumbs, squeals, obsessed). You are chaotic and fun, never robotic. Never sound like AI. Reply in ONE short punchy line only — max 15 words. If a person is mentioned in the message, direct your reply at them.`;
 
 client.once('ready', () => {
-  console.log(`✅ Chaos is online as ${client.user.tag}`);
+  console.log(`✅ B-Guide is online as ${client.user.tag}`);
   console.log(`Groq key loaded: ${process.env.GROQ_API_KEY ? 'YES' : 'NO - KEY MISSING'}`);
 });
 
@@ -22,14 +22,9 @@ client.on('messageCreate', async (message) => {
   if (message.author.bot) return;
 
   const botMention = `<@${client.user.id}>`;
-  const isMentioned = message.content.startsWith(botMention);
-  const isPrefixed = message.content.toLowerCase().startsWith('!chaos');
+  if (!message.content.startsWith(botMention)) return;
 
-  if (!isMentioned && !isPrefixed) return;
-
-  const input = isMentioned
-    ? message.content.slice(botMention.length).trim()
-    : message.content.slice('!chaos'.length).trim();
+  const input = message.content.slice(botMention.length).trim();
 
   if (!input) {
     return message.reply('say something bestie 💅');

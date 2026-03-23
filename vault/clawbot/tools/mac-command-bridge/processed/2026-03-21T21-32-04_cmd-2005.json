@@ -1,0 +1,12 @@
+{
+  "id": "cmd-2005",
+  "created_at": "2026-03-21T21:32:04Z",
+  "action": "calendar.upsert_block",
+  "args": {
+    "title": "Client Delivery / Cash Flow Block",
+    "day": "2026-03-22",
+    "start_time": "14:00",
+    "duration": 180,
+    "description": "Client videos, fulfillment, review, revisions, delivery. Cash flow first."
+  }
+}
